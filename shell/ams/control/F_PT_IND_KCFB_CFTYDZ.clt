@@ -1,0 +1,38 @@
+LOAD DATA
+CHARACTERSET UTF8
+TRUNCATE INTO TABLE F_PT_IND_KCFB_CFTYDZ
+FIELDS TERMINATED BY '' 
+TRAILING NULLCOLS 
+(ODS_SRC_DT DATE "yyyy-mm-dd" ,                                                                      
+  FARENDMA   CHAR ,                                                                
+  KEHUHAOO   CHAR ,                                                                
+  DIZHLEIX   CHAR ,                                                                
+  DIZHNEIR   CHAR ,                                                                
+  DIQUDAIM   CHAR ,                                                                
+  DIQMINGC   CHAR ,                                                                
+  XZQHDAIM   CHAR ,                                                                
+  YOUZHBMA   CHAR ,                                                                
+  GUOIJAMC   CHAR ,                                                                
+  SHENGSHQ   CHAR ,                                                                
+  CHENGSMC   CHAR ,                                                                
+  YWGUOJIA   CHAR ,                                                                
+  YINGWCSM   CHAR ,                                                                
+  YINGWDZH   CHAR ,                                                                
+  BEIZHUXX   CHAR ,                                                               
+  CHJIANRQ   CHAR ,                                                                
+  CHJIANSJ   DECIMAL EXTERNAL ,                                                                           
+  CHJIANJG   CHAR ,                                                                        
+  CHJIANGY   CHAR ,                                                                        
+  CJQUDAOO   CHAR ,                                                                        
+  CJSQGUIY   CHAR ,                                                                        
+  CJGYLIUS   CHAR ,                                                                        
+  WEIHSQGY   CHAR ,                                                                        
+  WEIHGYLS   CHAR ,                                                                       
+  WEIHQDAO   CHAR ,                                                                        
+  WEIHSHIJ   DECIMAL EXTERNAL ,                                                                         
+  WEIHGUIY   CHAR ,                                                                  
+  WEIHJIGO   CHAR ,                                                                  
+  WEIHRIQI   CHAR ,                                                                  
+  SHIJCHUO   DECIMAL EXTERNAL ,                                                                
+  JILUZTAI   CHAR
+)                     

@@ -1,0 +1,1564 @@
+2019-05-30 13:50:02 [log] ams_master.sh execute
+2019-05-30 13:50:02 [log] ams_worker.sh execute
+2019-05-30 13:50:02 [log] Program Start
+2019-05-30 13:50:02 [log] datafile RunDate Directory Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312: Directory Check Success!
+2019-05-30 13:50:02 [log] datafile and datafile.xml RunDate File Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: datafile Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: datafile.xml Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: datafile Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: datafile.xml Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: datafile Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: datafile.xml Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: datafile Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: datafile.xml Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: datafile Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: datafile.xml Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: datafile Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: datafile.xml Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: datafile Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: datafile.xml Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: datafile Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: datafile.xml Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: datafile Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: datafile.xml Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: datafile Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: datafile.xml Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: datafile Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: datafile.xml Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: datafile Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: datafile.xml Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: datafile Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: datafile.xml Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: datafile Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: File exists!
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: datafile.xml Check
+2019-05-30 13:50:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: File exists!
+2019-05-30 13:50:41 [log] Copy datafile RunDate File: /data/ODS/FDM/INCR/20180312 to /home/wasup/ams/data
+2019-05-30 13:50:41 [log] datafile oldfile Directory Check
+2019-05-30 13:50:41 [log] MKDIR /home/wasup/ams/data/oldfile/20180312!
+2019-05-30 13:50:41 [log] Import table: F_PT_ENT_KCFB_CFDGDL
+2019-05-30 13:50:41 [log] Import count: 37173
+2019-05-30 13:50:41 [log] F_PT_ENT_KCFB_CFDGDL: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDL.ok: ok file not exists! 
+2019-05-30 13:50:41 [log] F_PT_ENT_KCFB_CFDGDL :SQLLDR execute begin
+2019-05-30 13:50:41 [log] F_PT_ENT_KCFB_CFDGDL :SQLLDR execute count 1!
+2019-05-30 13:50:42 [log] F_PT_ENT_KCFB_CFDGDL: TRUNCATE table success!
+2019-05-30 13:50:43 [log] F_PT_ENT_KCFB_CFDGDL:   37173 Rows successfully loaded.
+2019-05-30 13:50:43 [log] F_PT_ENT_KCFB_CFDGDL: Import data success!
+2019-05-30 13:50:43 [log] F_PT_ENT_KCFB_CFDGDL: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDL.ok
+2019-05-30 13:50:43 [log] Import table: F_PT_ENT_KCFB_CFDGDZ
+2019-05-30 13:50:43 [log] Import count: 66114
+2019-05-30 13:50:43 [log] F_PT_ENT_KCFB_CFDGDZ: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDZ.ok: ok file not exists! 
+2019-05-30 13:50:43 [log] F_PT_ENT_KCFB_CFDGDZ :SQLLDR execute begin
+2019-05-30 13:50:43 [log] F_PT_ENT_KCFB_CFDGDZ :SQLLDR execute count 1!
+2019-05-30 13:50:43 [log] F_PT_ENT_KCFB_CFDGDZ: TRUNCATE table success!
+2019-05-30 13:50:44 [log] F_PT_ENT_KCFB_CFDGDZ:   66114 Rows successfully loaded.
+2019-05-30 13:50:44 [log] F_PT_ENT_KCFB_CFDGDZ: Import data success!
+2019-05-30 13:50:44 [log] F_PT_ENT_KCFB_CFDGDZ: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDZ.ok
+2019-05-30 13:50:44 [log] Import table: F_PT_ENT_KCFB_CFDGZJ
+2019-05-30 13:50:44 [log] Import count: 74937
+2019-05-30 13:50:44 [log] F_PT_ENT_KCFB_CFDGZJ: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGZJ.ok: ok file not exists! 
+2019-05-30 13:50:44 [log] F_PT_ENT_KCFB_CFDGZJ :SQLLDR execute begin
+2019-05-30 13:50:44 [log] F_PT_ENT_KCFB_CFDGZJ :SQLLDR execute count 1!
+2019-05-30 13:50:44 [log] F_PT_ENT_KCFB_CFDGZJ: TRUNCATE table success!
+2019-05-30 13:50:45 [log] F_PT_ENT_KCFB_CFDGZJ:   74937 Rows successfully loaded.
+2019-05-30 13:50:45 [log] F_PT_ENT_KCFB_CFDGZJ: Import data success!
+2019-05-30 13:50:45 [log] F_PT_ENT_KCFB_CFDGZJ: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGZJ.ok
+2019-05-30 13:50:45 [log] Import table: F_PT_ENT_KCFB_CFDGJC
+2019-05-30 13:50:45 [log] Import count: 33294
+2019-05-30 13:50:45 [log] F_PT_ENT_KCFB_CFDGJC: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGJC.ok: ok file not exists! 
+2019-05-30 13:50:45 [log] F_PT_ENT_KCFB_CFDGJC :SQLLDR execute begin
+2019-05-30 13:50:45 [log] F_PT_ENT_KCFB_CFDGJC :SQLLDR execute count 1!
+2019-05-30 13:50:45 [log] F_PT_ENT_KCFB_CFDGJC: TRUNCATE table success!
+2019-05-30 13:50:46 [log] F_PT_ENT_KCFB_CFDGJC:   33294 Rows successfully loaded.
+2019-05-30 13:50:46 [log] F_PT_ENT_KCFB_CFDGJC: Import data success!
+2019-05-30 13:50:46 [log] F_PT_ENT_KCFB_CFDGJC: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGJC.ok
+2019-05-30 13:50:46 [log] Import table: F_PT_ORG_KBRP_JGCSHU
+2019-05-30 13:50:46 [log] Import count: 146
+2019-05-30 13:50:46 [log] F_PT_ORG_KBRP_JGCSHU: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGCSHU.ok: ok file not exists! 
+2019-05-30 13:50:46 [log] F_PT_ORG_KBRP_JGCSHU :SQLLDR execute begin
+2019-05-30 13:50:46 [log] F_PT_ORG_KBRP_JGCSHU :SQLLDR execute count 1!
+2019-05-30 13:50:46 [log] F_PT_ORG_KBRP_JGCSHU: TRUNCATE table success!
+2019-05-30 13:50:46 [log] F_PT_ORG_KBRP_JGCSHU:   146 Rows successfully loaded.
+2019-05-30 13:50:46 [log] F_PT_ORG_KBRP_JGCSHU: Import data success!
+2019-05-30 13:50:46 [log] F_PT_ORG_KBRP_JGCSHU: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGCSHU.ok
+2019-05-30 13:50:46 [log] Import table: F_AG_DP_KDPA_KEHUZH
+2019-05-30 13:50:46 [log] Import count: 5829020
+2019-05-30 13:50:46 [log] F_AG_DP_KDPA_KEHUZH: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_KEHUZH.ok: ok file not exists! 
+2019-05-30 13:50:46 [log] F_AG_DP_KDPA_KEHUZH :SQLLDR execute begin
+2019-05-30 13:50:46 [log] F_AG_DP_KDPA_KEHUZH :SQLLDR execute count 1!
+2019-05-30 13:50:46 [log] F_AG_DP_KDPA_KEHUZH: TRUNCATE table success!
+2019-05-30 13:52:59 [log] F_AG_DP_KDPA_KEHUZH:   5829020 Rows successfully loaded.
+2019-05-30 13:52:59 [log] F_AG_DP_KDPA_KEHUZH: Import data success!
+2019-05-30 13:52:59 [log] F_AG_DP_KDPA_KEHUZH: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_KEHUZH.ok
+2019-05-30 13:53:00 [log] Import table: F_AG_DP_KDPA_ZHBCXX
+2019-05-30 13:53:00 [log] Import count: 3100873
+2019-05-30 13:53:00 [log] F_AG_DP_KDPA_ZHBCXX: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHBCXX.ok: ok file not exists! 
+2019-05-30 13:53:00 [log] F_AG_DP_KDPA_ZHBCXX :SQLLDR execute begin
+2019-05-30 13:53:00 [log] F_AG_DP_KDPA_ZHBCXX :SQLLDR execute count 1!
+2019-05-30 13:53:00 [log] F_AG_DP_KDPA_ZHBCXX: TRUNCATE table success!
+2019-05-30 13:53:36 [log] F_AG_DP_KDPA_ZHBCXX:   3100873 Rows successfully loaded.
+2019-05-30 13:53:36 [log] F_AG_DP_KDPA_ZHBCXX: Import data success!
+2019-05-30 13:53:36 [log] F_AG_DP_KDPA_ZHBCXX: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHBCXX.ok
+2019-05-30 13:53:36 [log] Import table: F_AG_DP_KDPA_ZHXINX
+2019-05-30 13:53:36 [log] Import count: 5828168
+2019-05-30 13:53:36 [log] F_AG_DP_KDPA_ZHXINX: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHXINX.ok: ok file not exists! 
+2019-05-30 13:53:36 [log] F_AG_DP_KDPA_ZHXINX :SQLLDR execute begin
+2019-05-30 13:53:36 [log] F_AG_DP_KDPA_ZHXINX :SQLLDR execute count 1!
+2019-05-30 13:53:36 [log] F_AG_DP_KDPA_ZHXINX: TRUNCATE table success!
+2019-05-30 13:57:59 [log] F_AG_DP_KDPA_ZHXINX:   5828168 Rows successfully loaded.
+2019-05-30 13:57:59 [log] F_AG_DP_KDPA_ZHXINX: Import data success!
+2019-05-30 13:57:59 [log] F_AG_DP_KDPA_ZHXINX: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHXINX.ok
+2019-05-30 13:58:00 [log] Import table: F_PT_IND_KCFB_CFTYZJ
+2019-05-30 13:58:00 [log] Import count: 740
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYZJ: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYZJ.ok: ok file not exists! 
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYZJ :SQLLDR execute begin
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYZJ :SQLLDR execute count 1!
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYZJ: TRUNCATE table success!
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYZJ:   740 Rows successfully loaded.
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYZJ: Import data success!
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYZJ: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYZJ.ok
+2019-05-30 13:58:00 [log] Import table: F_PT_IND_KCFB_CFTYJC
+2019-05-30 13:58:00 [log] Import count: 388
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYJC: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYJC.ok: ok file not exists! 
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYJC :SQLLDR execute begin
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYJC :SQLLDR execute count 1!
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYJC: TRUNCATE table success!
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYJC:   388 Rows successfully loaded.
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYJC: Import data success!
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYJC: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYJC.ok
+2019-05-30 13:58:00 [log] Import table: F_PT_IND_KCFB_CFTYDZ
+2019-05-30 13:58:00 [log] Import count: 603
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYDZ: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDZ.ok: ok file not exists! 
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYDZ :SQLLDR execute begin
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYDZ :SQLLDR execute count 1!
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYDZ: TRUNCATE table success!
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYDZ:   603 Rows successfully loaded.
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYDZ: Import data success!
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYDZ: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDZ.ok
+2019-05-30 13:58:00 [log] Import table: F_PT_IND_KCFB_CFTYDL
+2019-05-30 13:58:00 [log] Import count: 293
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYDL: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDL.ok: ok file not exists! 
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYDL :SQLLDR execute begin
+2019-05-30 13:58:00 [log] F_PT_IND_KCFB_CFTYDL :SQLLDR execute count 1!
+2019-05-30 13:58:01 [log] F_PT_IND_KCFB_CFTYDL: TRUNCATE table success!
+2019-05-30 13:58:01 [log] F_PT_IND_KCFB_CFTYDL:   293 Rows successfully loaded.
+2019-05-30 13:58:01 [log] F_PT_IND_KCFB_CFTYDL: Import data success!
+2019-05-30 13:58:01 [log] F_PT_IND_KCFB_CFTYDL: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDL.ok
+2019-05-30 13:58:01 [log] Import table: F_CM_KTLP_GYCSHU
+2019-05-30 13:58:01 [log] Import count: 5105
+2019-05-30 13:58:01 [log] F_CM_KTLP_GYCSHU: /home/wasup/ams/data/oldfile/20180312/F_CM_KTLP_GYCSHU.ok: ok file not exists! 
+2019-05-30 13:58:01 [log] F_CM_KTLP_GYCSHU :SQLLDR execute begin
+2019-05-30 13:58:01 [log] F_CM_KTLP_GYCSHU :SQLLDR execute count 1!
+2019-05-30 13:58:01 [log] F_CM_KTLP_GYCSHU: TRUNCATE table success!
+2019-05-30 13:58:01 [log] F_CM_KTLP_GYCSHU:   5105 Rows successfully loaded.
+2019-05-30 13:58:01 [log] F_CM_KTLP_GYCSHU: Import data success!
+2019-05-30 13:58:01 [log] F_CM_KTLP_GYCSHU: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_CM_KTLP_GYCSHU.ok
+2019-05-30 13:58:01 [log] Import table: F_PT_ORG_KBRP_JGGXII
+2019-05-30 13:58:01 [log] Import count: 959
+2019-05-30 13:58:01 [log] F_PT_ORG_KBRP_JGGXII: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGGXII.ok: ok file not exists! 
+2019-05-30 13:58:01 [log] F_PT_ORG_KBRP_JGGXII :SQLLDR execute begin
+2019-05-30 13:58:01 [log] F_PT_ORG_KBRP_JGGXII :SQLLDR execute count 1!
+2019-05-30 13:58:01 [log] F_PT_ORG_KBRP_JGGXII: TRUNCATE table success!
+2019-05-30 13:58:01 [log] F_PT_ORG_KBRP_JGGXII:   959 Rows successfully loaded.
+2019-05-30 13:58:01 [log] F_PT_ORG_KBRP_JGGXII: Import data success!
+2019-05-30 13:58:01 [log] F_PT_ORG_KBRP_JGGXII: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGGXII.ok
+2019-05-30 13:58:01 [log] RunDate UPDATE: 20180313
+2019-05-30 13:58:01 [log] End of Program
+2019-05-30 13:58:01 [log] ams_worker.sh end of execute!
+2019-05-30 13:58:01 [log] ams_master.sh end of execute!
+2019-06-21 10:43:27 [log] ams_master.sh execute
+2019-06-21 10:43:27 [log] ams_worker.sh execute
+2019-06-21 10:43:27 [log] Program Start
+2019-06-21 10:43:27 [log] datafile RunDate Directory Check
+2019-06-21 10:43:27 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:43:37 [log] datafile RunDate Directory Check
+2019-06-21 10:43:37 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:43:47 [log] datafile RunDate Directory Check
+2019-06-21 10:43:47 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:43:57 [log] datafile RunDate Directory Check
+2019-06-21 10:43:57 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:44:07 [log] datafile RunDate Directory Check
+2019-06-21 10:44:07 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:44:17 [log] datafile RunDate Directory Check
+2019-06-21 10:44:17 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:44:27 [log] datafile RunDate Directory Check
+2019-06-21 10:44:27 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:44:37 [log] datafile RunDate Directory Check
+2019-06-21 10:44:37 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:44:47 [log] datafile RunDate Directory Check
+2019-06-21 10:44:47 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:44:57 [log] datafile RunDate Directory Check
+2019-06-21 10:44:57 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:45:07 [log] datafile RunDate Directory Check
+2019-06-21 10:45:07 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:45:17 [log] datafile RunDate Directory Check
+2019-06-21 10:45:17 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:45:27 [log] datafile RunDate Directory Check
+2019-06-21 10:45:27 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:45:37 [log] datafile RunDate Directory Check
+2019-06-21 10:45:37 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:45:47 [log] datafile RunDate Directory Check
+2019-06-21 10:45:48 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:45:58 [log] datafile RunDate Directory Check
+2019-06-21 10:45:58 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:46:08 [log] datafile RunDate Directory Check
+2019-06-21 10:46:08 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:46:18 [log] datafile RunDate Directory Check
+2019-06-21 10:46:18 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:46:28 [log] datafile RunDate Directory Check
+2019-06-21 10:46:28 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:46:38 [log] datafile RunDate Directory Check
+2019-06-21 10:46:38 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:46:48 [log] datafile RunDate Directory Check
+2019-06-21 10:46:48 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:46:58 [log] datafile RunDate Directory Check
+2019-06-21 10:46:58 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:47:08 [log] datafile RunDate Directory Check
+2019-06-21 10:47:08 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:47:18 [log] datafile RunDate Directory Check
+2019-06-21 10:47:18 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:47:28 [log] datafile RunDate Directory Check
+2019-06-21 10:47:28 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:47:38 [log] datafile RunDate Directory Check
+2019-06-21 10:47:38 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:47:48 [log] datafile RunDate Directory Check
+2019-06-21 10:47:48 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:47:58 [log] datafile RunDate Directory Check
+2019-06-21 10:47:58 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:48:08 [log] datafile RunDate Directory Check
+2019-06-21 10:48:08 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:48:18 [log] datafile RunDate Directory Check
+2019-06-21 10:48:18 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:48:28 [log] datafile RunDate Directory Check
+2019-06-21 10:48:28 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:48:38 [log] datafile RunDate Directory Check
+2019-06-21 10:48:38 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:48:48 [log] datafile RunDate Directory Check
+2019-06-21 10:48:48 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:48:58 [log] datafile RunDate Directory Check
+2019-06-21 10:48:58 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:49:08 [log] datafile RunDate Directory Check
+2019-06-21 10:49:08 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:49:18 [log] datafile RunDate Directory Check
+2019-06-21 10:49:18 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:49:28 [log] datafile RunDate Directory Check
+2019-06-21 10:49:28 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:49:38 [log] datafile RunDate Directory Check
+2019-06-21 10:49:38 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:49:48 [log] datafile RunDate Directory Check
+2019-06-21 10:49:48 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:49:58 [log] datafile RunDate Directory Check
+2019-06-21 10:49:58 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:50:08 [log] datafile RunDate Directory Check
+2019-06-21 10:50:08 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:50:18 [log] datafile RunDate Directory Check
+2019-06-21 10:50:18 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:50:28 [log] datafile RunDate Directory Check
+2019-06-21 10:50:28 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:50:37 [log] ams_master.sh execute
+2019-06-21 10:50:37 [log] ams_worker.sh execute
+2019-06-21 10:50:37 [log] Program Start
+2019-06-21 10:50:37 [log] datafile RunDate Directory Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202: Directory Check Success!
+2019-06-21 10:50:37 [log] datafile and datafile.xml RunDate File Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGDL_20190202.dat: datafile Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGDL_20190202.dat: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGDL_20190202.dat.xml: datafile.xml Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGDL_20190202.dat.xml: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGDZ_20190202.dat: datafile Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGDZ_20190202.dat: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGDZ_20190202.dat.xml: datafile.xml Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGDZ_20190202.dat.xml: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGZJ_20190202.dat: datafile Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGZJ_20190202.dat: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGZJ_20190202.dat.xml: datafile.xml Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGZJ_20190202.dat.xml: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGJC_20190202.dat: datafile Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGJC_20190202.dat: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGJC_20190202.dat.xml: datafile.xml Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ENT_KCFB_CFDGJC_20190202.dat.xml: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ORG_KBRP_JGCSHU_20190202.dat: datafile Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ORG_KBRP_JGCSHU_20190202.dat: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ORG_KBRP_JGCSHU_20190202.dat.xml: datafile.xml Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_ORG_KBRP_JGCSHU_20190202.dat.xml: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_AG_DP_KDPA_KEHUZH_20190202.dat: datafile Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_AG_DP_KDPA_KEHUZH_20190202.dat: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_AG_DP_KDPA_KEHUZH_20190202.dat.xml: datafile.xml Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_AG_DP_KDPA_KEHUZH_20190202.dat.xml: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_AG_DP_KDPA_ZHBCXX_20190202.dat: datafile Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_AG_DP_KDPA_ZHBCXX_20190202.dat: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_AG_DP_KDPA_ZHBCXX_20190202.dat.xml: datafile.xml Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_AG_DP_KDPA_ZHBCXX_20190202.dat.xml: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_AG_DP_KDPA_ZHXINX_20190202.dat: datafile Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_AG_DP_KDPA_ZHXINX_20190202.dat: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_AG_DP_KDPA_ZHXINX_20190202.dat.xml: datafile.xml Check
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_AG_DP_KDPA_ZHXINX_20190202.dat.xml: File exists!
+2019-06-21 10:50:37 [log] /data/ODS/FDM/INCR/20190202/F_PT_IND_KCFB_CFTYZJ_20190202.dat: datafile Check
+2019-06-21 10:50:37 [err] /data/ODS/FDM/INCR/20190202/F_PT_IND_KCFB_CFTYZJ_20190202.dat: File Not Found!
+2019-06-21 10:50:38 [log] datafile RunDate Directory Check
+2019-06-21 10:50:38 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:50:48 [log] datafile RunDate Directory Check
+2019-06-21 10:50:48 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:50:58 [log] datafile RunDate Directory Check
+2019-06-21 10:50:58 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:51:08 [log] datafile RunDate Directory Check
+2019-06-21 10:51:08 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:51:18 [log] datafile RunDate Directory Check
+2019-06-21 10:51:18 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:51:28 [log] datafile RunDate Directory Check
+2019-06-21 10:51:28 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:51:38 [log] datafile RunDate Directory Check
+2019-06-21 10:51:38 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:51:48 [log] datafile RunDate Directory Check
+2019-06-21 10:51:48 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:51:58 [log] datafile RunDate Directory Check
+2019-06-21 10:51:58 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:52:08 [log] datafile RunDate Directory Check
+2019-06-21 10:52:08 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:52:18 [log] datafile RunDate Directory Check
+2019-06-21 10:52:18 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:52:28 [log] datafile RunDate Directory Check
+2019-06-21 10:52:28 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:52:38 [log] datafile RunDate Directory Check
+2019-06-21 10:52:38 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:52:48 [log] datafile RunDate Directory Check
+2019-06-21 10:52:48 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:52:58 [log] datafile RunDate Directory Check
+2019-06-21 10:52:58 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:53:08 [log] datafile RunDate Directory Check
+2019-06-21 10:53:08 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:53:18 [log] datafile RunDate Directory Check
+2019-06-21 10:53:18 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:53:28 [log] datafile RunDate Directory Check
+2019-06-21 10:53:28 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:53:38 [log] datafile RunDate Directory Check
+2019-06-21 10:53:38 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:53:48 [log] datafile RunDate Directory Check
+2019-06-21 10:53:48 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:53:58 [log] datafile RunDate Directory Check
+2019-06-21 10:53:58 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:54:08 [log] datafile RunDate Directory Check
+2019-06-21 10:54:08 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:54:18 [log] datafile RunDate Directory Check
+2019-06-21 10:54:18 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:54:28 [log] datafile RunDate Directory Check
+2019-06-21 10:54:28 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:54:38 [log] datafile RunDate Directory Check
+2019-06-21 10:54:38 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:54:48 [log] datafile RunDate Directory Check
+2019-06-21 10:54:48 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:54:58 [log] datafile RunDate Directory Check
+2019-06-21 10:54:58 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:55:08 [log] datafile RunDate Directory Check
+2019-06-21 10:55:08 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:55:18 [log] datafile RunDate Directory Check
+2019-06-21 10:55:18 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:55:28 [log] datafile RunDate Directory Check
+2019-06-21 10:55:28 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:55:38 [log] datafile RunDate Directory Check
+2019-06-21 10:55:38 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:55:48 [log] datafile RunDate Directory Check
+2019-06-21 10:55:48 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:55:58 [log] datafile RunDate Directory Check
+2019-06-21 10:55:58 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:56:08 [log] datafile RunDate Directory Check
+2019-06-21 10:56:08 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:56:18 [log] datafile RunDate Directory Check
+2019-06-21 10:56:18 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:56:28 [log] datafile RunDate Directory Check
+2019-06-21 10:56:28 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:56:38 [log] datafile RunDate Directory Check
+2019-06-21 10:56:38 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:56:48 [log] datafile RunDate Directory Check
+2019-06-21 10:56:48 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:56:58 [log] datafile RunDate Directory Check
+2019-06-21 10:56:58 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:57:08 [log] datafile RunDate Directory Check
+2019-06-21 10:57:08 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:57:18 [log] datafile RunDate Directory Check
+2019-06-21 10:57:18 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:57:28 [log] datafile RunDate Directory Check
+2019-06-21 10:57:28 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:57:38 [log] datafile RunDate Directory Check
+2019-06-21 10:57:38 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:57:48 [log] datafile RunDate Directory Check
+2019-06-21 10:57:48 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:57:58 [log] datafile RunDate Directory Check
+2019-06-21 10:57:58 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:58:08 [log] datafile RunDate Directory Check
+2019-06-21 10:58:08 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:58:18 [log] datafile RunDate Directory Check
+2019-06-21 10:58:18 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:58:28 [log] datafile RunDate Directory Check
+2019-06-21 10:58:28 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:58:38 [log] datafile RunDate Directory Check
+2019-06-21 10:58:38 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:58:48 [log] datafile RunDate Directory Check
+2019-06-21 10:58:48 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:58:58 [log] datafile RunDate Directory Check
+2019-06-21 10:58:58 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:59:08 [log] datafile RunDate Directory Check
+2019-06-21 10:59:08 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:59:18 [log] datafile RunDate Directory Check
+2019-06-21 10:59:18 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:59:28 [log] datafile RunDate Directory Check
+2019-06-21 10:59:28 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 10:59:38 [log] datafile RunDate Directory Check
+2019-06-21 10:59:38 [log] /data/ODS/FDM/INCR/20190203: Directory Not Found!
+2019-06-21 11:01:12 [log] ams_master.sh execute
+2019-06-21 11:01:12 [log] ams_worker.sh execute
+2019-06-21 11:01:12 [log] Program Start
+2019-06-21 11:01:12 [log] datafile RunDate Directory Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312: Directory Check Success!
+2019-06-21 11:01:12 [log] datafile and datafile.xml RunDate File Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: datafile Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: datafile Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: datafile Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: datafile Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: datafile Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: datafile Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: datafile Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: datafile Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: datafile Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: datafile Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: datafile Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: datafile Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: datafile Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: datafile Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: File exists!
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:01:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: File exists!
+2019-06-21 11:04:26 [log] ams_master.sh execute
+2019-06-21 11:04:26 [log] ams_worker.sh execute
+2019-06-21 11:04:26 [log] Program Start
+2019-06-21 11:04:26 [log] datafile RunDate Directory Check
+2019-06-21 11:05:59 [log] /data/ODS/FDM/INCR/20180312: Directory Check Success!
+2019-06-21 11:05:59 [log] datafile and datafile.xml RunDate File Check
+2019-06-21 11:05:59 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: datafile Check
+2019-06-21 11:06:38 [log] ams_master.sh execute
+2019-06-21 11:06:38 [log] ams_worker.sh execute
+2019-06-21 11:06:38 [log] Program Start
+2019-06-21 11:06:38 [log] datafile RunDate Directory Check
+2019-06-21 11:08:48 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: File exists!
+2019-06-21 11:08:48 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:08:48 [log] /data/ODS/FDM/INCR/20180312: Directory Check Success!
+2019-06-21 11:08:48 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: File exists!
+2019-06-21 11:08:48 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: datafile Check
+2019-06-21 11:08:48 [log] datafile and datafile.xml RunDate File Check
+2019-06-21 11:08:48 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: datafile Check
+2019-06-21 11:08:48 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: File exists!
+2019-06-21 11:08:48 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:08:48 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: File exists!
+2019-06-21 11:08:48 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: datafile Check
+2019-06-21 11:09:46 [log] ams_worker.sh end of execute!
+2019-06-21 11:09:46 [log] ams_master.sh end of execute!
+2019-06-21 11:10:21 [log] ams_master.sh execute
+2019-06-21 11:10:21 [log] ams_worker.sh execute
+2019-06-21 11:10:21 [log] Program Start
+2019-06-21 11:10:21 [log] datafile RunDate Directory Check
+2019-06-21 11:11:55 [log] /data/ODS/FDM/INCR/20180312: Directory Check Success!
+2019-06-21 11:11:55 [log] datafile and datafile.xml RunDate File Check
+2019-06-21 11:11:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: datafile Check
+2019-06-21 11:14:59 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: File exists!
+2019-06-21 11:14:59 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:14:59 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: File exists!
+2019-06-21 11:14:59 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: datafile Check
+2019-06-21 11:15:10 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: File exists!
+2019-06-21 11:15:10 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:17:52 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: File exists!
+2019-06-21 11:17:52 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: datafile Check
+2019-06-21 11:17:52 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: File exists!
+2019-06-21 11:17:52 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:20:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: File exists!
+2019-06-21 11:20:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: datafile Check
+2019-06-21 11:20:34 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: File exists!
+2019-06-21 11:20:34 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:23:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: File exists!
+2019-06-21 11:23:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: datafile Check
+2019-06-21 11:23:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: File exists!
+2019-06-21 11:23:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:23:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: File exists!
+2019-06-21 11:23:27 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: datafile Check
+2019-06-21 11:23:27 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: File exists!
+2019-06-21 11:23:27 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: datafile.xml Check
+2019-06-21 11:26:09 [log] ams_worker.sh end of execute!
+2019-06-21 11:26:09 [log] ams_master.sh end of execute!
+2019-06-21 13:18:04 [log] ams_master.sh execute
+2019-06-21 13:18:04 [log] ams_worker.sh execute
+2019-06-21 13:18:04 [log] Program Start
+2019-06-21 13:18:04 [log] datafile RunDate Directory Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312: Directory Check Success!
+2019-06-21 13:18:04 [log] datafile and datafile.xml RunDate File Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: datafile Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: datafile.xml Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: datafile Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: datafile.xml Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: datafile Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: datafile.xml Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: datafile Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: datafile.xml Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: datafile Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: datafile Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: datafile.xml Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: datafile Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: datafile.xml Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: datafile Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: datafile.xml Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: datafile Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: datafile.xml Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: datafile Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: datafile.xml Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: datafile Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: datafile.xml Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: datafile Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: datafile.xml Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: datafile Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: datafile Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: File exists!
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: datafile.xml Check
+2019-06-21 13:18:04 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: File exists!
+2019-06-24 16:12:55 [log] ams_worker.sh execute
+2019-06-24 16:12:55 [log] Program Start
+2019-06-24 16:12:55 [log] datafile RunDate Directory Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312: Directory Check Success!
+2019-06-24 16:12:55 [log] datafile and datafile.xml RunDate File Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: datafile Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: datafile.xml Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: datafile Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: datafile.xml Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: datafile Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: datafile.xml Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: datafile Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: datafile.xml Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: datafile Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: datafile Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: datafile.xml Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: datafile Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: datafile.xml Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: datafile Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: datafile.xml Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: datafile Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: datafile.xml Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: datafile Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: datafile.xml Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: datafile Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: datafile.xml Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: datafile Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: datafile.xml Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: datafile Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: datafile Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: File exists!
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: datafile.xml Check
+2019-06-24 16:12:55 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: File exists!
+2019-06-24 16:52:24 [log] ams_master.sh execute
+2019-06-24 16:52:24 [log] ams_worker.sh execute
+2019-06-24 16:52:24 [log] Program Start
+2019-06-24 16:52:24 [log] datafile RunDate Directory Check
+2019-06-24 16:55:21 [log] ams_worker.sh execute
+2019-06-24 16:55:21 [log] Program Start
+2019-06-24 16:55:21 [log] datafile RunDate Directory Check
+2019-06-24 16:55:46 [log] /data/ODS/FDM/INCR/20180312: Directory Check Success!
+2019-06-24 16:55:46 [log] /data/ODS/FDM/INCR/20180312: Directory Check Success!
+2019-06-24 16:55:46 [log] datafile and datafile.xml RunDate File Check
+2019-06-24 16:55:46 [log] datafile and datafile.xml RunDate File Check
+2019-06-24 16:55:46 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: datafile Check
+2019-06-24 16:55:46 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: datafile Check
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: File exists!
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: File exists!
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: File exists!
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: File exists!
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: datafile Check
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: datafile Check
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: File exists!
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: File exists!
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: File exists!
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: File exists!
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: datafile Check
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: datafile Check
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: File exists!
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: File exists!
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: File exists!
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: File exists!
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: datafile Check
+2019-06-24 17:02:02 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: datafile Check
+2019-06-24 17:09:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: File exists!
+2019-06-24 17:09:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: File exists!
+2019-06-24 17:09:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:09:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:09:20 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: File exists!
+2019-06-24 17:09:20 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: File exists!
+2019-06-24 17:09:20 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: datafile Check
+2019-06-24 17:09:20 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: datafile Check
+2019-06-24 17:09:20 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: File exists!
+2019-06-24 17:09:20 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: File exists!
+2019-06-24 17:09:20 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:09:20 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: File exists!
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: File exists!
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: datafile Check
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: datafile Check
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: File exists!
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: File exists!
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: File exists!
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: File exists!
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: datafile Check
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: datafile Check
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: File exists!
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: File exists!
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: File exists!
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: File exists!
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: datafile Check
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: datafile Check
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: File exists!
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: File exists!
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: File exists!
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: File exists!
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: datafile Check
+2019-06-24 17:15:16 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: datafile Check
+2019-06-24 17:16:22 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: File exists!
+2019-06-24 17:16:22 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: File exists!
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: File exists!
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: datafile Check
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: File exists!
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: File exists!
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: datafile Check
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: File exists!
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: File exists!
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: datafile Check
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: File exists!
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: File exists!
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: datafile Check
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: File exists!
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: File exists!
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: datafile Check
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: File exists!
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: File exists!
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: datafile Check
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: File exists!
+2019-06-24 17:21:31 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:23:43 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: File exists!
+2019-06-24 17:23:43 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: datafile Check
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: File exists!
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: File exists!
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: datafile Check
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: File exists!
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: File exists!
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: datafile Check
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: File exists!
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: File exists!
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: datafile Check
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: File exists!
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: datafile.xml Check
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: File exists!
+2019-06-24 17:27:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: File exists!
+2019-06-24 18:29:10 [log] ams_worker.sh execute
+2019-06-24 18:29:10 [log] Program Start
+2019-06-24 18:29:10 [log] datafile RunDate Directory Check
+2019-06-24 18:32:05 [log] /data/ODS/FDM/INCR/20180312: Directory Check Success!
+2019-06-24 18:32:05 [log] datafile and datafile.xml RunDate File Check
+2019-06-24 18:32:05 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: datafile Check
+2019-06-24 18:32:05 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: File exists!
+2019-06-24 18:32:05 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: datafile.xml Check
+2019-06-24 18:32:05 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: File exists!
+2019-06-24 18:32:05 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: datafile Check
+2019-06-24 18:32:05 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: File exists!
+2019-06-24 18:32:05 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: datafile.xml Check
+2019-06-24 18:32:05 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: File exists!
+2019-06-24 18:32:05 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: datafile Check
+2019-06-24 18:32:06 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: File exists!
+2019-06-24 18:32:06 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: datafile.xml Check
+2019-06-24 18:32:06 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: File exists!
+2019-06-24 18:32:06 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: datafile Check
+2019-06-24 18:32:06 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: File exists!
+2019-06-24 18:32:06 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: datafile.xml Check
+2019-06-24 18:32:06 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: File exists!
+2019-06-24 18:32:06 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: datafile Check
+2019-06-24 18:32:07 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: File exists!
+2019-06-24 18:32:07 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-24 18:32:07 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: File exists!
+2019-06-24 18:32:07 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: datafile Check
+2019-06-24 18:32:08 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: File exists!
+2019-06-24 18:32:08 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: datafile.xml Check
+2019-06-24 18:32:08 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: File exists!
+2019-06-24 18:32:08 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: datafile Check
+2019-06-24 18:32:08 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: File exists!
+2019-06-24 18:32:08 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: datafile.xml Check
+2019-06-24 18:32:09 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: File exists!
+2019-06-24 18:32:09 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: datafile Check
+2019-06-24 18:32:09 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: File exists!
+2019-06-24 18:32:09 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: datafile.xml Check
+2019-06-24 18:32:12 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: File exists!
+2019-06-24 18:32:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: datafile Check
+2019-06-24 18:32:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: File exists!
+2019-06-24 18:32:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: datafile.xml Check
+2019-06-24 18:32:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: File exists!
+2019-06-24 18:32:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: datafile Check
+2019-06-24 18:32:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: File exists!
+2019-06-24 18:32:12 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: datafile.xml Check
+2019-06-24 18:32:13 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: File exists!
+2019-06-24 18:32:13 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: datafile Check
+2019-06-24 18:32:13 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: File exists!
+2019-06-24 18:32:13 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: datafile.xml Check
+2019-06-24 18:32:13 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: File exists!
+2019-06-24 18:32:13 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: datafile Check
+2019-06-24 18:32:22 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: File exists!
+2019-06-24 18:32:22 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: datafile.xml Check
+2019-06-24 18:32:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: File exists!
+2019-06-24 18:32:27 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: datafile Check
+2019-06-24 18:32:27 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: File exists!
+2019-06-24 18:32:27 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-24 18:32:27 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: File exists!
+2019-06-24 18:32:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: datafile Check
+2019-06-24 18:32:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: File exists!
+2019-06-24 18:32:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: datafile.xml Check
+2019-06-24 18:32:27 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: File exists!
+2019-06-24 18:33:08 [log] Copy datafile RunDate File: /data/ODS/FDM/INCR/20180312 to /home/wasup/ams/data
+2019-06-24 18:33:08 [log] Copy datafile RunDate File: /data/ODS/FDM/INCR/20180312 to /home/wasup/ams/data
+2019-06-24 18:33:08 [log] datafile oldfile Directory Check
+2019-06-24 18:33:08 [log] datafile oldfile Directory Check
+2019-06-24 18:33:08 [log] MKDIR /home/wasup/ams/data/oldfile/20180312!
+2019-06-24 18:33:08 [log] MKDIR /home/wasup/ams/data/oldfile/20180312!
+2019-06-24 18:33:08 [log] Import table: F_PT_ENT_KCFB_CFDGDL
+2019-06-24 18:33:08 [log] Import table: F_PT_ENT_KCFB_CFDGDL
+2019-06-24 18:33:08 [log] Import count: 37173
+2019-06-24 18:33:08 [log] Import count: 37173
+2019-06-24 18:33:08 [log] F_PT_ENT_KCFB_CFDGDL: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDL.ok: ok file not exists! 
+2019-06-24 18:33:08 [log] F_PT_ENT_KCFB_CFDGDL: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDL.ok: ok file not exists! 
+2019-06-24 18:33:08 [log] F_PT_ENT_KCFB_CFDGDL :SQLLDR execute begin
+2019-06-24 18:33:08 [log] F_PT_ENT_KCFB_CFDGDL :SQLLDR execute count 1!
+2019-06-24 18:33:08 [log] F_PT_ENT_KCFB_CFDGDL :SQLLDR execute begin
+2019-06-24 18:33:08 [log] F_PT_ENT_KCFB_CFDGDL :SQLLDR execute count 1!
+2019-06-24 18:33:10 [log] F_PT_ENT_KCFB_CFDGDL: TRUNCATE table success!
+2019-06-24 18:33:10 [log] F_PT_ENT_KCFB_CFDGDL: TRUNCATE table success!
+2019-06-24 18:33:10 [log] F_PT_ENT_KCFB_CFDGDL: 
+2019-06-24 18:33:10 [err] F_PT_ENT_KCFB_CFDGDL :Import data Fail!
+2019-06-24 18:33:12 [log] F_PT_ENT_KCFB_CFDGDL:   37173 Rows successfully loaded.
+2019-06-24 18:33:12 [log] F_PT_ENT_KCFB_CFDGDL: Import data success!
+2019-06-24 18:33:12 [log] F_PT_ENT_KCFB_CFDGDL: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDL.ok
+2019-06-24 18:33:12 [log] Import table: F_PT_ENT_KCFB_CFDGDZ
+2019-06-24 18:33:12 [log] Import count: 66114
+2019-06-24 18:33:12 [log] F_PT_ENT_KCFB_CFDGDZ: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDZ.ok: ok file not exists! 
+2019-06-24 18:33:12 [log] F_PT_ENT_KCFB_CFDGDZ :SQLLDR execute begin
+2019-06-24 18:33:12 [log] F_PT_ENT_KCFB_CFDGDZ :SQLLDR execute count 1!
+2019-06-24 18:33:12 [log] F_PT_ENT_KCFB_CFDGDZ: TRUNCATE table success!
+2019-06-24 18:33:13 [log] F_PT_ENT_KCFB_CFDGDZ:   66114 Rows successfully loaded.
+2019-06-24 18:33:13 [log] F_PT_ENT_KCFB_CFDGDZ: Import data success!
+2019-06-24 18:33:13 [log] F_PT_ENT_KCFB_CFDGDZ: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDZ.ok
+2019-06-24 18:33:13 [log] Import table: F_PT_ENT_KCFB_CFDGZJ
+2019-06-24 18:33:13 [log] Import count: 74937
+2019-06-24 18:33:13 [log] F_PT_ENT_KCFB_CFDGZJ: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGZJ.ok: ok file not exists! 
+2019-06-24 18:33:13 [log] F_PT_ENT_KCFB_CFDGZJ :SQLLDR execute begin
+2019-06-24 18:33:13 [log] F_PT_ENT_KCFB_CFDGZJ :SQLLDR execute count 1!
+2019-06-24 18:33:13 [log] F_PT_ENT_KCFB_CFDGZJ: TRUNCATE table success!
+2019-06-24 18:33:14 [log] F_PT_ENT_KCFB_CFDGZJ:   74937 Rows successfully loaded.
+2019-06-24 18:33:14 [log] F_PT_ENT_KCFB_CFDGZJ: Import data success!
+2019-06-24 18:33:14 [log] F_PT_ENT_KCFB_CFDGZJ: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGZJ.ok
+2019-06-24 18:33:14 [log] Import table: F_PT_ENT_KCFB_CFDGJC
+2019-06-24 18:33:14 [log] Import count: 33294
+2019-06-24 18:33:14 [log] F_PT_ENT_KCFB_CFDGJC: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGJC.ok: ok file not exists! 
+2019-06-24 18:33:14 [log] F_PT_ENT_KCFB_CFDGJC :SQLLDR execute begin
+2019-06-24 18:33:14 [log] F_PT_ENT_KCFB_CFDGJC :SQLLDR execute count 1!
+2019-06-24 18:33:14 [log] F_PT_ENT_KCFB_CFDGJC: TRUNCATE table success!
+2019-06-24 18:33:15 [log] F_PT_ENT_KCFB_CFDGJC:   33294 Rows successfully loaded.
+2019-06-24 18:33:15 [log] F_PT_ENT_KCFB_CFDGJC: Import data success!
+2019-06-24 18:33:15 [log] F_PT_ENT_KCFB_CFDGJC: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGJC.ok
+2019-06-24 18:33:15 [log] Import table: F_PT_ORG_KBRP_JGCSHU
+2019-06-24 18:33:15 [log] Import count: 146
+2019-06-24 18:33:15 [log] F_PT_ORG_KBRP_JGCSHU: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGCSHU.ok: ok file not exists! 
+2019-06-24 18:33:15 [log] F_PT_ORG_KBRP_JGCSHU :SQLLDR execute begin
+2019-06-24 18:33:15 [log] F_PT_ORG_KBRP_JGCSHU :SQLLDR execute count 1!
+2019-06-24 18:33:15 [log] F_PT_ORG_KBRP_JGCSHU: TRUNCATE table success!
+2019-06-24 18:33:16 [log] F_PT_ORG_KBRP_JGCSHU:   146 Rows successfully loaded.
+2019-06-24 18:33:16 [log] F_PT_ORG_KBRP_JGCSHU: Import data success!
+2019-06-24 18:33:16 [log] F_PT_ORG_KBRP_JGCSHU: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGCSHU.ok
+2019-06-24 18:33:16 [log] Import table: F_AG_DP_KDPA_KEHUZH
+2019-06-24 18:33:16 [log] Import count: 5829020
+2019-06-24 18:33:16 [log] F_AG_DP_KDPA_KEHUZH: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_KEHUZH.ok: ok file not exists! 
+2019-06-24 18:33:16 [log] F_AG_DP_KDPA_KEHUZH :SQLLDR execute begin
+2019-06-24 18:33:16 [log] F_AG_DP_KDPA_KEHUZH :SQLLDR execute count 1!
+2019-06-24 18:33:16 [log] F_AG_DP_KDPA_KEHUZH: TRUNCATE table success!
+2019-06-24 18:35:10 [log] F_PT_ENT_KCFB_CFDGDL :SQLLDR execute count 2!
+2019-06-24 18:35:11 [log] F_PT_ENT_KCFB_CFDGDL: TRUNCATE table success!
+2019-06-24 18:35:11 [log] F_PT_ENT_KCFB_CFDGDL: 
+2019-06-24 18:35:11 [err] F_PT_ENT_KCFB_CFDGDL :Import data Fail!
+2019-06-24 18:35:45 [log] F_AG_DP_KDPA_KEHUZH:   5829020 Rows successfully loaded.
+2019-06-24 18:35:45 [log] F_AG_DP_KDPA_KEHUZH: Import data success!
+2019-06-24 18:35:45 [log] F_AG_DP_KDPA_KEHUZH: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_KEHUZH.ok
+2019-06-24 18:35:45 [log] Import table: F_AG_DP_KDPA_ZHBCXX
+2019-06-24 18:35:45 [log] Import count: 3100873
+2019-06-24 18:35:45 [log] F_AG_DP_KDPA_ZHBCXX: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHBCXX.ok: ok file not exists! 
+2019-06-24 18:35:45 [log] F_AG_DP_KDPA_ZHBCXX :SQLLDR execute begin
+2019-06-24 18:35:45 [log] F_AG_DP_KDPA_ZHBCXX :SQLLDR execute count 1!
+2019-06-24 18:35:45 [log] F_AG_DP_KDPA_ZHBCXX: TRUNCATE table success!
+2019-06-24 18:36:24 [log] F_AG_DP_KDPA_ZHBCXX:   3100873 Rows successfully loaded.
+2019-06-24 18:36:24 [log] F_AG_DP_KDPA_ZHBCXX: Import data success!
+2019-06-24 18:36:24 [log] F_AG_DP_KDPA_ZHBCXX: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHBCXX.ok
+2019-06-24 18:36:24 [log] Import table: F_AG_DP_KDPA_ZHXINX
+2019-06-24 18:36:24 [log] Import count: 5828168
+2019-06-24 18:36:24 [log] F_AG_DP_KDPA_ZHXINX: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHXINX.ok: ok file not exists! 
+2019-06-24 18:36:24 [log] F_AG_DP_KDPA_ZHXINX :SQLLDR execute begin
+2019-06-24 18:36:24 [log] F_AG_DP_KDPA_ZHXINX :SQLLDR execute count 1!
+2019-06-24 18:36:24 [log] F_AG_DP_KDPA_ZHXINX: TRUNCATE table success!
+2019-06-24 18:37:11 [log] F_PT_ENT_KCFB_CFDGDL :SQLLDR execute count 3!
+2019-06-24 18:37:11 [log] F_PT_ENT_KCFB_CFDGDL: TRUNCATE table success!
+2019-06-24 18:37:11 [log] F_PT_ENT_KCFB_CFDGDL: 
+2019-06-24 18:37:11 [err] F_PT_ENT_KCFB_CFDGDL :Import data Fail!
+2019-06-24 18:39:11 [log] Import table: F_PT_ENT_KCFB_CFDGDZ
+2019-06-24 18:39:11 [log] Import count: 
+2019-06-24 18:39:11 [log] F_PT_ENT_KCFB_CFDGDZ: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDZ.ok: ok file exists! Importing STOP!
+2019-06-24 18:39:11 [log] F_PT_ENT_KCFB_CFDGDZ: skip current function!
+2019-06-24 18:39:11 [log] Import table: F_PT_ENT_KCFB_CFDGZJ
+2019-06-24 18:39:11 [log] Import count: 
+2019-06-24 18:39:11 [log] F_PT_ENT_KCFB_CFDGZJ: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGZJ.ok: ok file exists! Importing STOP!
+2019-06-24 18:39:11 [log] F_PT_ENT_KCFB_CFDGZJ: skip current function!
+2019-06-24 18:39:11 [log] Import table: F_PT_ENT_KCFB_CFDGJC
+2019-06-24 18:39:11 [log] Import count: 
+2019-06-24 18:39:11 [log] F_PT_ENT_KCFB_CFDGJC: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGJC.ok: ok file exists! Importing STOP!
+2019-06-24 18:39:11 [log] F_PT_ENT_KCFB_CFDGJC: skip current function!
+2019-06-24 18:39:11 [log] Import table: F_PT_ORG_KBRP_JGCSHU
+2019-06-24 18:39:11 [log] Import count: 
+2019-06-24 18:39:11 [log] F_PT_ORG_KBRP_JGCSHU: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGCSHU.ok: ok file exists! Importing STOP!
+2019-06-24 18:39:11 [log] F_PT_ORG_KBRP_JGCSHU: skip current function!
+2019-06-24 18:39:11 [log] Import table: F_AG_DP_KDPA_KEHUZH
+2019-06-24 18:39:11 [log] Import count: 
+2019-06-24 18:39:11 [log] F_AG_DP_KDPA_KEHUZH: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_KEHUZH.ok: ok file exists! Importing STOP!
+2019-06-24 18:39:11 [log] F_AG_DP_KDPA_KEHUZH: skip current function!
+2019-06-24 18:39:11 [log] Import table: F_AG_DP_KDPA_ZHBCXX
+2019-06-24 18:39:11 [log] Import count: 
+2019-06-24 18:39:11 [log] F_AG_DP_KDPA_ZHBCXX: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHBCXX.ok: ok file exists! Importing STOP!
+2019-06-24 18:39:11 [log] F_AG_DP_KDPA_ZHBCXX: skip current function!
+2019-06-24 18:39:11 [log] Import table: F_AG_DP_KDPA_ZHXINX
+2019-06-24 18:39:11 [log] Import count: 
+2019-06-24 18:39:11 [log] F_AG_DP_KDPA_ZHXINX: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHXINX.ok: ok file not exists! 
+2019-06-24 18:39:11 [log] F_AG_DP_KDPA_ZHXINX :SQLLDR execute begin
+2019-06-24 18:39:11 [log] F_AG_DP_KDPA_ZHXINX :SQLLDR execute count 1!
+2019-06-24 18:39:11 [log] F_AG_DP_KDPA_ZHXINX: TRUNCATE table success!
+2019-06-24 18:39:11 [log] F_AG_DP_KDPA_ZHXINX: 
+2019-06-24 18:39:11 [err] F_AG_DP_KDPA_ZHXINX :Import data Fail!
+2019-06-24 18:41:11 [log] F_AG_DP_KDPA_ZHXINX :SQLLDR execute count 2!
+2019-06-24 18:41:11 [log] F_AG_DP_KDPA_ZHXINX: TRUNCATE table success!
+2019-06-24 18:41:11 [log] F_AG_DP_KDPA_ZHXINX: 
+2019-06-24 18:41:11 [err] F_AG_DP_KDPA_ZHXINX :Import data Fail!
+2019-06-24 18:41:19 [log] F_AG_DP_KDPA_ZHXINX:   5828168 Rows successfully loaded.
+2019-06-24 18:41:19 [log] F_AG_DP_KDPA_ZHXINX: Import data success!
+2019-06-24 18:41:19 [log] F_AG_DP_KDPA_ZHXINX: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHXINX.ok
+2019-06-24 18:41:19 [log] Import table: F_PT_IND_KCFB_CFTYZJ
+2019-06-24 18:41:19 [log] Import count: 740
+2019-06-24 18:41:19 [log] F_PT_IND_KCFB_CFTYZJ: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYZJ.ok: ok file not exists! 
+2019-06-24 18:41:19 [log] F_PT_IND_KCFB_CFTYZJ :SQLLDR execute begin
+2019-06-24 18:41:19 [log] F_PT_IND_KCFB_CFTYZJ :SQLLDR execute count 1!
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYZJ: TRUNCATE table success!
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYZJ:   740 Rows successfully loaded.
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYZJ: Import data success!
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYZJ: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYZJ.ok
+2019-06-24 18:41:20 [log] Import table: F_PT_IND_KCFB_CFTYJC
+2019-06-24 18:41:20 [log] Import count: 388
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYJC: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYJC.ok: ok file not exists! 
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYJC :SQLLDR execute begin
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYJC :SQLLDR execute count 1!
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYJC: TRUNCATE table success!
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYJC:   388 Rows successfully loaded.
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYJC: Import data success!
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYJC: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYJC.ok
+2019-06-24 18:41:20 [log] Import table: F_PT_IND_KCFB_CFTYDZ
+2019-06-24 18:41:20 [log] Import count: 603
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYDZ: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDZ.ok: ok file not exists! 
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYDZ :SQLLDR execute begin
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYDZ :SQLLDR execute count 1!
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYDZ: TRUNCATE table success!
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYDZ:   603 Rows successfully loaded.
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYDZ: Import data success!
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYDZ: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDZ.ok
+2019-06-24 18:41:20 [log] Import table: F_PT_IND_KCFB_CFTYDL
+2019-06-24 18:41:20 [log] Import count: 293
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYDL: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDL.ok: ok file not exists! 
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYDL :SQLLDR execute begin
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYDL :SQLLDR execute count 1!
+2019-06-24 18:41:20 [log] F_PT_IND_KCFB_CFTYDL: TRUNCATE table success!
+2019-06-24 18:41:21 [log] F_PT_IND_KCFB_CFTYDL:   293 Rows successfully loaded.
+2019-06-24 18:41:21 [log] F_PT_IND_KCFB_CFTYDL: Import data success!
+2019-06-24 18:41:21 [log] F_PT_IND_KCFB_CFTYDL: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDL.ok
+2019-06-24 18:41:21 [log] Import table: F_CM_KTLP_GYCSHU
+2019-06-24 18:41:21 [log] Import count: 5105
+2019-06-24 18:41:21 [log] F_CM_KTLP_GYCSHU: /home/wasup/ams/data/oldfile/20180312/F_CM_KTLP_GYCSHU.ok: ok file not exists! 
+2019-06-24 18:41:21 [log] F_CM_KTLP_GYCSHU :SQLLDR execute begin
+2019-06-24 18:41:21 [log] F_CM_KTLP_GYCSHU :SQLLDR execute count 1!
+2019-06-24 18:41:21 [log] F_CM_KTLP_GYCSHU: TRUNCATE table success!
+2019-06-24 18:41:21 [log] F_CM_KTLP_GYCSHU:   5105 Rows successfully loaded.
+2019-06-24 18:41:21 [log] F_CM_KTLP_GYCSHU: Import data success!
+2019-06-24 18:41:21 [log] F_CM_KTLP_GYCSHU: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_CM_KTLP_GYCSHU.ok
+2019-06-24 18:41:21 [log] Import table: F_PT_ORG_KBRP_JGGXII
+2019-06-24 18:41:21 [log] Import count: 959
+2019-06-24 18:41:21 [log] F_PT_ORG_KBRP_JGGXII: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGGXII.ok: ok file not exists! 
+2019-06-24 18:41:21 [log] F_PT_ORG_KBRP_JGGXII :SQLLDR execute begin
+2019-06-24 18:41:21 [log] F_PT_ORG_KBRP_JGGXII :SQLLDR execute count 1!
+2019-06-24 18:41:21 [log] F_PT_ORG_KBRP_JGGXII: TRUNCATE table success!
+2019-06-24 18:41:21 [log] F_PT_ORG_KBRP_JGGXII:   959 Rows successfully loaded.
+2019-06-24 18:41:21 [log] F_PT_ORG_KBRP_JGGXII: Import data success!
+2019-06-24 18:41:21 [log] F_PT_ORG_KBRP_JGGXII: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGGXII.ok
+2019-06-24 18:41:21 [log] RunDate UPDATE: 20180313
+2019-06-24 18:41:21 [log] End of Program
+2019-06-24 18:43:11 [log] F_AG_DP_KDPA_ZHXINX :SQLLDR execute count 3!
+2019-06-24 18:43:12 [log] F_AG_DP_KDPA_ZHXINX: TRUNCATE table success!
+2019-06-24 18:43:12 [log] F_AG_DP_KDPA_ZHXINX: 
+2019-06-24 18:43:12 [err] F_AG_DP_KDPA_ZHXINX :Import data Fail!
+2019-06-24 18:45:12 [log] Import table: F_PT_IND_KCFB_CFTYZJ
+2019-06-24 18:45:12 [log] Import count: 
+2019-06-24 18:45:12 [log] F_PT_IND_KCFB_CFTYZJ: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYZJ.ok: ok file exists! Importing STOP!
+2019-06-24 18:45:12 [log] F_PT_IND_KCFB_CFTYZJ: skip current function!
+2019-06-24 18:45:12 [log] Import table: F_PT_IND_KCFB_CFTYJC
+2019-06-24 18:45:12 [log] Import count: 
+2019-06-24 18:45:12 [log] F_PT_IND_KCFB_CFTYJC: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYJC.ok: ok file exists! Importing STOP!
+2019-06-24 18:45:12 [log] F_PT_IND_KCFB_CFTYJC: skip current function!
+2019-06-24 18:45:12 [log] Import table: F_PT_IND_KCFB_CFTYDZ
+2019-06-24 18:45:12 [log] Import count: 
+2019-06-24 18:45:12 [log] F_PT_IND_KCFB_CFTYDZ: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDZ.ok: ok file exists! Importing STOP!
+2019-06-24 18:45:12 [log] F_PT_IND_KCFB_CFTYDZ: skip current function!
+2019-06-24 18:45:12 [log] Import table: F_PT_IND_KCFB_CFTYDL
+2019-06-24 18:45:12 [log] Import count: 
+2019-06-24 18:45:12 [log] F_PT_IND_KCFB_CFTYDL: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDL.ok: ok file exists! Importing STOP!
+2019-06-24 18:45:12 [log] F_PT_IND_KCFB_CFTYDL: skip current function!
+2019-06-24 18:45:12 [log] Import table: F_CM_KTLP_GYCSHU
+2019-06-24 18:45:12 [log] Import count: 
+2019-06-24 18:45:12 [log] F_CM_KTLP_GYCSHU: /home/wasup/ams/data/oldfile/20180312/F_CM_KTLP_GYCSHU.ok: ok file exists! Importing STOP!
+2019-06-24 18:45:12 [log] F_CM_KTLP_GYCSHU: skip current function!
+2019-06-24 18:45:12 [log] Import table: F_PT_ORG_KBRP_JGGXII
+2019-06-24 18:45:12 [log] Import count: 
+2019-06-24 18:45:12 [log] F_PT_ORG_KBRP_JGGXII: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGGXII.ok: ok file exists! Importing STOP!
+2019-06-24 18:45:12 [log] F_PT_ORG_KBRP_JGGXII: skip current function!
+2019-06-24 18:45:12 [log] RunDate UPDATE: 20180313
+2019-06-24 18:45:12 [log] End of Program
+2019-06-25 19:41:26 [log] ams_master.sh execute
+2019-06-25 19:41:26 [log] ams_worker.sh execute
+2019-06-25 19:41:26 [log] Program Start
+2019-06-25 19:41:26 [log] datafile RunDate Directory Check
+2019-06-25 19:41:26 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:41:36 [log] datafile RunDate Directory Check
+2019-06-25 19:41:36 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:41:46 [log] datafile RunDate Directory Check
+2019-06-25 19:41:46 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:41:56 [log] datafile RunDate Directory Check
+2019-06-25 19:41:56 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:42:06 [log] datafile RunDate Directory Check
+2019-06-25 19:42:06 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:42:16 [log] datafile RunDate Directory Check
+2019-06-25 19:42:16 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:42:26 [log] datafile RunDate Directory Check
+2019-06-25 19:42:26 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:42:36 [log] datafile RunDate Directory Check
+2019-06-25 19:42:36 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:42:46 [log] datafile RunDate Directory Check
+2019-06-25 19:42:46 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:42:56 [log] datafile RunDate Directory Check
+2019-06-25 19:42:56 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:43:06 [log] datafile RunDate Directory Check
+2019-06-25 19:43:06 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:43:16 [log] datafile RunDate Directory Check
+2019-06-25 19:43:16 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:44:18 [log] ams_master.sh execute
+2019-06-25 19:44:18 [log] ams_worker.sh execute
+2019-06-25 19:44:18 [log] Program Start
+2019-06-25 19:44:18 [log] datafile RunDate Directory Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312: Directory Check Success!
+2019-06-25 19:44:18 [log] datafile and datafile.xml RunDate File Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: datafile Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: datafile Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: datafile Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: datafile Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: datafile Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: datafile Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: datafile Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: datafile Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: datafile Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: datafile Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: datafile Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: datafile Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: datafile Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: datafile Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: File exists!
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:44:18 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: File exists!
+2019-06-25 19:44:44 [log] Copy datafile RunDate File: /data/ODS/FDM/INCR/20180312 to /home/wasup/ams/data
+2019-06-25 19:44:44 [log] datafile oldfile Directory Check
+2019-06-25 19:44:44 [log] Directory Check Success!
+2019-06-25 19:44:44 [log] Import table: F_PT_ENT_KCFB_CFDGDL
+2019-06-25 19:44:44 [log] Import count: 37173
+2019-06-25 19:44:44 [log] F_PT_ENT_KCFB_CFDGDL: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDL.ok: ok file exists! Importing STOP!
+2019-06-25 19:44:44 [log] F_PT_ENT_KCFB_CFDGDL: skip current function!
+2019-06-25 19:44:44 [log] Import table: F_PT_ENT_KCFB_CFDGDZ
+2019-06-25 19:44:44 [log] Import count: 66114
+2019-06-25 19:44:44 [log] F_PT_ENT_KCFB_CFDGDZ: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDZ.ok: ok file exists! Importing STOP!
+2019-06-25 19:44:44 [log] F_PT_ENT_KCFB_CFDGDZ: skip current function!
+2019-06-25 19:44:44 [log] Import table: F_PT_ENT_KCFB_CFDGZJ
+2019-06-25 19:44:44 [log] Import count: 74937
+2019-06-25 19:44:44 [log] F_PT_ENT_KCFB_CFDGZJ: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGZJ.ok: ok file exists! Importing STOP!
+2019-06-25 19:44:44 [log] F_PT_ENT_KCFB_CFDGZJ: skip current function!
+2019-06-25 19:44:44 [log] Import table: F_PT_ENT_KCFB_CFDGJC
+2019-06-25 19:44:44 [log] Import count: 33294
+2019-06-25 19:44:44 [log] F_PT_ENT_KCFB_CFDGJC: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGJC.ok: ok file exists! Importing STOP!
+2019-06-25 19:44:44 [log] F_PT_ENT_KCFB_CFDGJC: skip current function!
+2019-06-25 19:44:44 [log] Import table: F_PT_ORG_KBRP_JGCSHU
+2019-06-25 19:44:44 [log] Import count: 146
+2019-06-25 19:44:44 [log] F_PT_ORG_KBRP_JGCSHU: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGCSHU.ok: ok file exists! Importing STOP!
+2019-06-25 19:44:44 [log] F_PT_ORG_KBRP_JGCSHU: skip current function!
+2019-06-25 19:44:44 [log] Import table: F_AG_DP_KDPA_KEHUZH
+2019-06-25 19:44:44 [log] Import count: 5829020
+2019-06-25 19:44:44 [log] F_AG_DP_KDPA_KEHUZH: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_KEHUZH.ok: ok file exists! Importing STOP!
+2019-06-25 19:44:44 [log] F_AG_DP_KDPA_KEHUZH: skip current function!
+2019-06-25 19:44:44 [log] Import table: F_AG_DP_KDPA_ZHBCXX
+2019-06-25 19:44:44 [log] Import count: 3100873
+2019-06-25 19:44:44 [log] F_AG_DP_KDPA_ZHBCXX: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHBCXX.ok: ok file exists! Importing STOP!
+2019-06-25 19:44:44 [log] F_AG_DP_KDPA_ZHBCXX: skip current function!
+2019-06-25 19:44:44 [log] Import table: F_AG_DP_KDPA_ZHXINX
+2019-06-25 19:44:44 [log] Import count: 5828168
+2019-06-25 19:44:44 [log] F_AG_DP_KDPA_ZHXINX: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHXINX.ok: ok file exists! Importing STOP!
+2019-06-25 19:44:44 [log] F_AG_DP_KDPA_ZHXINX: skip current function!
+2019-06-25 19:44:45 [log] Import table: F_PT_IND_KCFB_CFTYZJ
+2019-06-25 19:44:45 [log] Import count: 740
+2019-06-25 19:44:45 [log] F_PT_IND_KCFB_CFTYZJ: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYZJ.ok: ok file exists! Importing STOP!
+2019-06-25 19:44:45 [log] F_PT_IND_KCFB_CFTYZJ: skip current function!
+2019-06-25 19:44:45 [log] Import table: F_PT_IND_KCFB_CFTYJC
+2019-06-25 19:44:45 [log] Import count: 388
+2019-06-25 19:44:45 [log] F_PT_IND_KCFB_CFTYJC: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYJC.ok: ok file exists! Importing STOP!
+2019-06-25 19:44:45 [log] F_PT_IND_KCFB_CFTYJC: skip current function!
+2019-06-25 19:44:45 [log] Import table: F_PT_IND_KCFB_CFTYDZ
+2019-06-25 19:44:45 [log] Import count: 603
+2019-06-25 19:44:45 [log] F_PT_IND_KCFB_CFTYDZ: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDZ.ok: ok file exists! Importing STOP!
+2019-06-25 19:44:45 [log] F_PT_IND_KCFB_CFTYDZ: skip current function!
+2019-06-25 19:44:45 [log] Import table: F_PT_IND_KCFB_CFTYDL
+2019-06-25 19:44:45 [log] Import count: 293
+2019-06-25 19:44:45 [log] F_PT_IND_KCFB_CFTYDL: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDL.ok: ok file exists! Importing STOP!
+2019-06-25 19:44:45 [log] F_PT_IND_KCFB_CFTYDL: skip current function!
+2019-06-25 19:44:45 [log] Import table: F_CM_KTLP_GYCSHU
+2019-06-25 19:44:45 [log] Import count: 5105
+2019-06-25 19:44:45 [log] F_CM_KTLP_GYCSHU: /home/wasup/ams/data/oldfile/20180312/F_CM_KTLP_GYCSHU.ok: ok file exists! Importing STOP!
+2019-06-25 19:44:45 [log] F_CM_KTLP_GYCSHU: skip current function!
+2019-06-25 19:44:45 [log] Import table: F_PT_ORG_KBRP_JGGXII
+2019-06-25 19:44:45 [log] Import count: 959
+2019-06-25 19:44:45 [log] F_PT_ORG_KBRP_JGGXII: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGGXII.ok: ok file exists! Importing STOP!
+2019-06-25 19:44:45 [log] F_PT_ORG_KBRP_JGGXII: skip current function!
+2019-06-25 19:44:45 [log] RunDate UPDATE: 20180313
+2019-06-25 19:44:45 [log] End of Program
+2019-06-25 19:44:45 [log] ams_worker.sh end of execute!
+2019-06-25 19:44:45 [log] ams_master.sh end of execute!
+2019-06-25 19:46:42 [log] ams_master.sh execute
+2019-06-25 19:46:42 [log] ams_worker.sh execute
+2019-06-25 19:46:42 [log] Program Start
+2019-06-25 19:46:42 [log] datafile RunDate Directory Check
+2019-06-25 19:46:42 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:46:52 [log] datafile RunDate Directory Check
+2019-06-25 19:46:52 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:47:02 [log] datafile RunDate Directory Check
+2019-06-25 19:47:02 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:47:12 [log] datafile RunDate Directory Check
+2019-06-25 19:47:12 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:47:22 [log] datafile RunDate Directory Check
+2019-06-25 19:47:22 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:47:32 [log] datafile RunDate Directory Check
+2019-06-25 19:47:32 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:47:42 [log] datafile RunDate Directory Check
+2019-06-25 19:47:42 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:47:52 [log] ams_worker.sh end of execute!
+2019-06-25 19:47:52 [log] ams_master.sh end of execute!
+2019-06-25 19:47:52 [log] datafile RunDate Directory Check
+2019-06-25 19:47:52 [log] /data/ODS/FDM/INCR/20180313: Directory Not Found!
+2019-06-25 19:48:47 [log] ams_master.sh execute
+2019-06-25 19:48:47 [log] ams_worker.sh execute
+2019-06-25 19:48:47 [log] Program Start
+2019-06-25 19:48:47 [log] datafile RunDate Directory Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312: Directory Check Success!
+2019-06-25 19:48:47 [log] datafile and datafile.xml RunDate File Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: datafile Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: datafile Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: datafile Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: datafile Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: datafile Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: datafile Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: datafile Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: datafile Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: datafile Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: datafile Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: datafile Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: datafile Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: datafile Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: datafile Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: File exists!
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: datafile.xml Check
+2019-06-25 19:48:47 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: File exists!
+2019-06-25 19:49:11 [log] Copy datafile RunDate File: /data/ODS/FDM/INCR/20180312 to /home/wasup/ams/data
+2019-06-25 19:49:11 [log] datafile oldfile Directory Check
+2019-06-25 19:49:11 [log] Directory Check Success!
+2019-06-25 19:49:11 [log] Import table: F_PT_ENT_KCFB_CFDGDL
+2019-06-25 19:49:11 [log] Import count: 37173
+2019-06-25 19:49:11 [log] F_PT_ENT_KCFB_CFDGDL: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDL.ok: ok file not exists! 
+2019-06-25 19:49:11 [log] F_PT_ENT_KCFB_CFDGDL :SQLLDR execute begin
+2019-06-25 19:49:11 [log] F_PT_ENT_KCFB_CFDGDL :SQLLDR execute count 1!
+2019-06-25 19:49:12 [log] F_PT_ENT_KCFB_CFDGDL: TRUNCATE table success!
+2019-06-25 19:49:13 [log] F_PT_ENT_KCFB_CFDGDL:   37173 Rows successfully loaded.
+2019-06-25 19:49:13 [log] F_PT_ENT_KCFB_CFDGDL: Import data success!
+2019-06-25 19:49:13 [log] F_PT_ENT_KCFB_CFDGDL: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDL.ok
+2019-06-25 19:49:13 [log] Import table: F_PT_ENT_KCFB_CFDGDZ
+2019-06-25 19:49:13 [log] Import count: 66114
+2019-06-25 19:49:13 [log] F_PT_ENT_KCFB_CFDGDZ: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDZ.ok: ok file not exists! 
+2019-06-25 19:49:13 [log] F_PT_ENT_KCFB_CFDGDZ :SQLLDR execute begin
+2019-06-25 19:49:13 [log] F_PT_ENT_KCFB_CFDGDZ :SQLLDR execute count 1!
+2019-06-25 19:49:13 [log] F_PT_ENT_KCFB_CFDGDZ: TRUNCATE table success!
+2019-06-25 19:49:32 [log] F_PT_ENT_KCFB_CFDGDZ:   66114 Rows successfully loaded.
+2019-06-25 19:49:32 [log] F_PT_ENT_KCFB_CFDGDZ: Import data success!
+2019-06-25 19:49:32 [log] F_PT_ENT_KCFB_CFDGDZ: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDZ.ok
+2019-06-25 19:49:32 [log] Import table: F_PT_ENT_KCFB_CFDGZJ
+2019-06-25 19:49:32 [log] Import count: 74937
+2019-06-25 19:49:32 [log] F_PT_ENT_KCFB_CFDGZJ: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGZJ.ok: ok file not exists! 
+2019-06-25 19:49:32 [log] F_PT_ENT_KCFB_CFDGZJ :SQLLDR execute begin
+2019-06-25 19:49:32 [log] F_PT_ENT_KCFB_CFDGZJ :SQLLDR execute count 1!
+2019-06-25 19:49:32 [log] F_PT_ENT_KCFB_CFDGZJ: TRUNCATE table success!
+2019-06-25 19:49:51 [log] F_PT_ENT_KCFB_CFDGZJ:   74937 Rows successfully loaded.
+2019-06-25 19:49:51 [log] F_PT_ENT_KCFB_CFDGZJ: Import data success!
+2019-06-25 19:49:51 [log] F_PT_ENT_KCFB_CFDGZJ: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGZJ.ok
+2019-06-25 19:49:51 [log] Import table: F_PT_ENT_KCFB_CFDGJC
+2019-06-25 19:49:51 [log] Import count: 33294
+2019-06-25 19:49:51 [log] F_PT_ENT_KCFB_CFDGJC: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGJC.ok: ok file not exists! 
+2019-06-25 19:49:51 [log] F_PT_ENT_KCFB_CFDGJC :SQLLDR execute begin
+2019-06-25 19:49:51 [log] F_PT_ENT_KCFB_CFDGJC :SQLLDR execute count 1!
+2019-06-25 19:49:51 [log] F_PT_ENT_KCFB_CFDGJC: TRUNCATE table success!
+2019-06-25 19:50:19 [log] F_PT_ENT_KCFB_CFDGJC:   33294 Rows successfully loaded.
+2019-06-25 19:50:19 [log] F_PT_ENT_KCFB_CFDGJC: Import data success!
+2019-06-25 19:50:19 [log] F_PT_ENT_KCFB_CFDGJC: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGJC.ok
+2019-06-25 19:50:19 [log] Import table: F_PT_ORG_KBRP_JGCSHU
+2019-06-25 19:50:19 [log] Import count: 146
+2019-06-25 19:50:19 [log] F_PT_ORG_KBRP_JGCSHU: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGCSHU.ok: ok file not exists! 
+2019-06-25 19:50:19 [log] F_PT_ORG_KBRP_JGCSHU :SQLLDR execute begin
+2019-06-25 19:50:19 [log] F_PT_ORG_KBRP_JGCSHU :SQLLDR execute count 1!
+2019-06-25 19:50:19 [log] F_PT_ORG_KBRP_JGCSHU: TRUNCATE table success!
+2019-06-25 19:50:19 [log] F_PT_ORG_KBRP_JGCSHU:   146 Rows successfully loaded.
+2019-06-25 19:50:19 [log] F_PT_ORG_KBRP_JGCSHU: Import data success!
+2019-06-25 19:50:19 [log] F_PT_ORG_KBRP_JGCSHU: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGCSHU.ok
+2019-06-25 19:50:19 [log] Import table: F_AG_DP_KDPA_KEHUZH
+2019-06-25 19:50:19 [log] Import count: 5829020
+2019-06-25 19:50:19 [log] F_AG_DP_KDPA_KEHUZH: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_KEHUZH.ok: ok file not exists! 
+2019-06-25 19:50:19 [log] F_AG_DP_KDPA_KEHUZH :SQLLDR execute begin
+2019-06-25 19:50:19 [log] F_AG_DP_KDPA_KEHUZH :SQLLDR execute count 1!
+2019-06-25 19:50:19 [log] F_AG_DP_KDPA_KEHUZH: TRUNCATE table success!
+2019-06-25 20:04:10 [log] F_AG_DP_KDPA_KEHUZH: 
+2019-06-25 20:04:10 [err] F_AG_DP_KDPA_KEHUZH :Import data Fail!
+2019-06-25 20:06:10 [log] F_AG_DP_KDPA_KEHUZH :SQLLDR execute count 2!
+2019-06-25 20:06:11 [log] F_AG_DP_KDPA_KEHUZH: TRUNCATE table success!
+2019-06-25 20:06:11 [log] F_AG_DP_KDPA_KEHUZH: 
+2019-06-25 20:06:11 [err] F_AG_DP_KDPA_KEHUZH :Import data Fail!
+2019-06-25 20:07:35 [log] ams_master.sh execute
+2019-06-25 20:07:35 [log] ams_worker.sh execute
+2019-06-25 20:07:35 [log] Program Start
+2019-06-25 20:07:35 [log] datafile RunDate Directory Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312: Directory Check Success!
+2019-06-25 20:07:35 [log] datafile and datafile.xml RunDate File Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: datafile Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: datafile.xml Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDL_20180312.dat.xml: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: datafile Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: datafile.xml Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGDZ_20180312.dat.xml: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: datafile Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: datafile.xml Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGZJ_20180312.dat.xml: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: datafile Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: datafile.xml Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ENT_KCFB_CFDGJC_20180312.dat.xml: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: datafile Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGCSHU_20180312.dat.xml: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: datafile Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: datafile.xml Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_KEHUZH_20180312.dat.xml: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: datafile Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: datafile.xml Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHBCXX_20180312.dat.xml: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: datafile Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: datafile.xml Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_AG_DP_KDPA_ZHXINX_20180312.dat.xml: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: datafile Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: datafile.xml Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYZJ_20180312.dat.xml: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: datafile Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: datafile.xml Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYJC_20180312.dat.xml: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: datafile Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: datafile.xml Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDZ_20180312.dat.xml: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: datafile Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: datafile.xml Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_IND_KCFB_CFTYDL_20180312.dat.xml: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: datafile Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: datafile.xml Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_CM_KTLP_GYCSHU_20180312.dat.xml: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: datafile Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat: File exists!
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: datafile.xml Check
+2019-06-25 20:07:35 [log] /data/ODS/FDM/INCR/20180312/F_PT_ORG_KBRP_JGGXII_20180312.dat.xml: File exists!
+2019-06-25 20:08:00 [log] Copy datafile RunDate File: /data/ODS/FDM/INCR/20180312 to /home/wasup/ams/data
+2019-06-25 20:08:00 [log] datafile oldfile Directory Check
+2019-06-25 20:08:00 [log] Directory Check Success!
+2019-06-25 20:08:00 [log] Import table: F_PT_ENT_KCFB_CFDGDL
+2019-06-25 20:08:00 [log] Import count: 37173
+2019-06-25 20:08:00 [log] F_PT_ENT_KCFB_CFDGDL: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDL.ok: ok file not exists! 
+2019-06-25 20:08:00 [log] F_PT_ENT_KCFB_CFDGDL :SQLLDR execute begin
+2019-06-25 20:08:00 [log] F_PT_ENT_KCFB_CFDGDL :SQLLDR execute count 1!
+2019-06-25 20:08:02 [log] F_PT_ENT_KCFB_CFDGDL: TRUNCATE table success!
+2019-06-25 20:08:03 [log] F_PT_ENT_KCFB_CFDGDL:   37173 Rows successfully loaded.
+2019-06-25 20:08:03 [log] F_PT_ENT_KCFB_CFDGDL: Import data success!
+2019-06-25 20:08:03 [log] F_PT_ENT_KCFB_CFDGDL: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDL.ok
+2019-06-25 20:08:03 [log] Import table: F_PT_ENT_KCFB_CFDGDZ
+2019-06-25 20:08:03 [log] Import count: 66114
+2019-06-25 20:08:03 [log] F_PT_ENT_KCFB_CFDGDZ: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDZ.ok: ok file not exists! 
+2019-06-25 20:08:03 [log] F_PT_ENT_KCFB_CFDGDZ :SQLLDR execute begin
+2019-06-25 20:08:03 [log] F_PT_ENT_KCFB_CFDGDZ :SQLLDR execute count 1!
+2019-06-25 20:08:03 [log] F_PT_ENT_KCFB_CFDGDZ: TRUNCATE table success!
+2019-06-25 20:08:04 [log] F_PT_ENT_KCFB_CFDGDZ:   66114 Rows successfully loaded.
+2019-06-25 20:08:04 [log] F_PT_ENT_KCFB_CFDGDZ: Import data success!
+2019-06-25 20:08:04 [log] F_PT_ENT_KCFB_CFDGDZ: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGDZ.ok
+2019-06-25 20:08:04 [log] Import table: F_PT_ENT_KCFB_CFDGZJ
+2019-06-25 20:08:04 [log] Import count: 74937
+2019-06-25 20:08:04 [log] F_PT_ENT_KCFB_CFDGZJ: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGZJ.ok: ok file not exists! 
+2019-06-25 20:08:04 [log] F_PT_ENT_KCFB_CFDGZJ :SQLLDR execute begin
+2019-06-25 20:08:04 [log] F_PT_ENT_KCFB_CFDGZJ :SQLLDR execute count 1!
+2019-06-25 20:08:04 [log] F_PT_ENT_KCFB_CFDGZJ: TRUNCATE table success!
+2019-06-25 20:08:07 [log] F_PT_ENT_KCFB_CFDGZJ:   74937 Rows successfully loaded.
+2019-06-25 20:08:07 [log] F_PT_ENT_KCFB_CFDGZJ: Import data success!
+2019-06-25 20:08:07 [log] F_PT_ENT_KCFB_CFDGZJ: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGZJ.ok
+2019-06-25 20:08:07 [log] Import table: F_PT_ENT_KCFB_CFDGJC
+2019-06-25 20:08:07 [log] Import count: 33294
+2019-06-25 20:08:07 [log] F_PT_ENT_KCFB_CFDGJC: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGJC.ok: ok file not exists! 
+2019-06-25 20:08:07 [log] F_PT_ENT_KCFB_CFDGJC :SQLLDR execute begin
+2019-06-25 20:08:07 [log] F_PT_ENT_KCFB_CFDGJC :SQLLDR execute count 1!
+2019-06-25 20:08:07 [log] F_PT_ENT_KCFB_CFDGJC: TRUNCATE table success!
+2019-06-25 20:08:08 [log] F_PT_ENT_KCFB_CFDGJC:   33294 Rows successfully loaded.
+2019-06-25 20:08:08 [log] F_PT_ENT_KCFB_CFDGJC: Import data success!
+2019-06-25 20:08:08 [log] F_PT_ENT_KCFB_CFDGJC: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ENT_KCFB_CFDGJC.ok
+2019-06-25 20:08:08 [log] Import table: F_PT_ORG_KBRP_JGCSHU
+2019-06-25 20:08:08 [log] Import count: 146
+2019-06-25 20:08:08 [log] F_PT_ORG_KBRP_JGCSHU: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGCSHU.ok: ok file not exists! 
+2019-06-25 20:08:08 [log] F_PT_ORG_KBRP_JGCSHU :SQLLDR execute begin
+2019-06-25 20:08:08 [log] F_PT_ORG_KBRP_JGCSHU :SQLLDR execute count 1!
+2019-06-25 20:08:08 [log] F_PT_ORG_KBRP_JGCSHU: TRUNCATE table success!
+2019-06-25 20:08:09 [log] F_PT_ORG_KBRP_JGCSHU:   146 Rows successfully loaded.
+2019-06-25 20:08:09 [log] F_PT_ORG_KBRP_JGCSHU: Import data success!
+2019-06-25 20:08:09 [log] F_PT_ORG_KBRP_JGCSHU: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGCSHU.ok
+2019-06-25 20:08:09 [log] Import table: F_AG_DP_KDPA_KEHUZH
+2019-06-25 20:08:09 [log] Import count: 5829020
+2019-06-25 20:08:09 [log] F_AG_DP_KDPA_KEHUZH: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_KEHUZH.ok: ok file not exists! 
+2019-06-25 20:08:09 [log] F_AG_DP_KDPA_KEHUZH :SQLLDR execute begin
+2019-06-25 20:08:09 [log] F_AG_DP_KDPA_KEHUZH :SQLLDR execute count 1!
+2019-06-25 20:08:09 [log] F_AG_DP_KDPA_KEHUZH: TRUNCATE table success!
+2019-06-25 20:11:16 [log] F_AG_DP_KDPA_KEHUZH:   5829020 Rows successfully loaded.
+2019-06-25 20:11:16 [log] F_AG_DP_KDPA_KEHUZH: Import data success!
+2019-06-25 20:11:16 [log] F_AG_DP_KDPA_KEHUZH: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_KEHUZH.ok
+2019-06-25 20:11:16 [log] Import table: F_AG_DP_KDPA_ZHBCXX
+2019-06-25 20:11:16 [log] Import count: 3100873
+2019-06-25 20:11:16 [log] F_AG_DP_KDPA_ZHBCXX: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHBCXX.ok: ok file not exists! 
+2019-06-25 20:11:16 [log] F_AG_DP_KDPA_ZHBCXX :SQLLDR execute begin
+2019-06-25 20:11:16 [log] F_AG_DP_KDPA_ZHBCXX :SQLLDR execute count 1!
+2019-06-25 20:11:16 [log] F_AG_DP_KDPA_ZHBCXX: TRUNCATE table success!
+2019-06-25 20:12:06 [log] F_AG_DP_KDPA_ZHBCXX:   3100873 Rows successfully loaded.
+2019-06-25 20:12:06 [log] F_AG_DP_KDPA_ZHBCXX: Import data success!
+2019-06-25 20:12:06 [log] F_AG_DP_KDPA_ZHBCXX: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHBCXX.ok
+2019-06-25 20:12:06 [log] Import table: F_AG_DP_KDPA_ZHXINX
+2019-06-25 20:12:06 [log] Import count: 5828168
+2019-06-25 20:12:06 [log] F_AG_DP_KDPA_ZHXINX: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHXINX.ok: ok file not exists! 
+2019-06-25 20:12:06 [log] F_AG_DP_KDPA_ZHXINX :SQLLDR execute begin
+2019-06-25 20:12:06 [log] F_AG_DP_KDPA_ZHXINX :SQLLDR execute count 1!
+2019-06-25 20:12:07 [log] F_AG_DP_KDPA_ZHXINX: TRUNCATE table success!
+2019-06-25 20:18:53 [log] F_AG_DP_KDPA_ZHXINX:   5828168 Rows successfully loaded.
+2019-06-25 20:18:53 [log] F_AG_DP_KDPA_ZHXINX: Import data success!
+2019-06-25 20:18:53 [log] F_AG_DP_KDPA_ZHXINX: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_AG_DP_KDPA_ZHXINX.ok
+2019-06-25 20:18:54 [log] Import table: F_PT_IND_KCFB_CFTYZJ
+2019-06-25 20:18:54 [log] Import count: 740
+2019-06-25 20:18:54 [log] F_PT_IND_KCFB_CFTYZJ: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYZJ.ok: ok file not exists! 
+2019-06-25 20:18:54 [log] F_PT_IND_KCFB_CFTYZJ :SQLLDR execute begin
+2019-06-25 20:18:54 [log] F_PT_IND_KCFB_CFTYZJ :SQLLDR execute count 1!
+2019-06-25 20:18:54 [log] F_PT_IND_KCFB_CFTYZJ: TRUNCATE table success!
+2019-06-25 20:18:55 [log] F_PT_IND_KCFB_CFTYZJ:   740 Rows successfully loaded.
+2019-06-25 20:18:55 [log] F_PT_IND_KCFB_CFTYZJ: Import data success!
+2019-06-25 20:18:55 [log] F_PT_IND_KCFB_CFTYZJ: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYZJ.ok
+2019-06-25 20:18:55 [log] Import table: F_PT_IND_KCFB_CFTYJC
+2019-06-25 20:18:55 [log] Import count: 388
+2019-06-25 20:18:55 [log] F_PT_IND_KCFB_CFTYJC: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYJC.ok: ok file not exists! 
+2019-06-25 20:18:55 [log] F_PT_IND_KCFB_CFTYJC :SQLLDR execute begin
+2019-06-25 20:18:55 [log] F_PT_IND_KCFB_CFTYJC :SQLLDR execute count 1!
+2019-06-25 20:18:55 [log] F_PT_IND_KCFB_CFTYJC: TRUNCATE table success!
+2019-06-25 20:18:55 [log] F_PT_IND_KCFB_CFTYJC:   388 Rows successfully loaded.
+2019-06-25 20:18:55 [log] F_PT_IND_KCFB_CFTYJC: Import data success!
+2019-06-25 20:18:55 [log] F_PT_IND_KCFB_CFTYJC: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYJC.ok
+2019-06-25 20:18:55 [log] Import table: F_PT_IND_KCFB_CFTYDZ
+2019-06-25 20:18:55 [log] Import count: 603
+2019-06-25 20:18:55 [log] F_PT_IND_KCFB_CFTYDZ: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDZ.ok: ok file not exists! 
+2019-06-25 20:18:55 [log] F_PT_IND_KCFB_CFTYDZ :SQLLDR execute begin
+2019-06-25 20:18:55 [log] F_PT_IND_KCFB_CFTYDZ :SQLLDR execute count 1!
+2019-06-25 20:18:55 [log] F_PT_IND_KCFB_CFTYDZ: TRUNCATE table success!
+2019-06-25 20:18:56 [log] F_PT_IND_KCFB_CFTYDZ:   603 Rows successfully loaded.
+2019-06-25 20:18:56 [log] F_PT_IND_KCFB_CFTYDZ: Import data success!
+2019-06-25 20:18:56 [log] F_PT_IND_KCFB_CFTYDZ: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDZ.ok
+2019-06-25 20:18:56 [log] Import table: F_PT_IND_KCFB_CFTYDL
+2019-06-25 20:18:56 [log] Import count: 293
+2019-06-25 20:18:56 [log] F_PT_IND_KCFB_CFTYDL: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDL.ok: ok file not exists! 
+2019-06-25 20:18:56 [log] F_PT_IND_KCFB_CFTYDL :SQLLDR execute begin
+2019-06-25 20:18:56 [log] F_PT_IND_KCFB_CFTYDL :SQLLDR execute count 1!
+2019-06-25 20:18:56 [log] F_PT_IND_KCFB_CFTYDL: TRUNCATE table success!
+2019-06-25 20:18:56 [log] F_PT_IND_KCFB_CFTYDL:   293 Rows successfully loaded.
+2019-06-25 20:18:56 [log] F_PT_IND_KCFB_CFTYDL: Import data success!
+2019-06-25 20:18:56 [log] F_PT_IND_KCFB_CFTYDL: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_IND_KCFB_CFTYDL.ok
+2019-06-25 20:18:56 [log] Import table: F_CM_KTLP_GYCSHU
+2019-06-25 20:18:56 [log] Import count: 5105
+2019-06-25 20:18:56 [log] F_CM_KTLP_GYCSHU: /home/wasup/ams/data/oldfile/20180312/F_CM_KTLP_GYCSHU.ok: ok file not exists! 
+2019-06-25 20:18:56 [log] F_CM_KTLP_GYCSHU :SQLLDR execute begin
+2019-06-25 20:18:56 [log] F_CM_KTLP_GYCSHU :SQLLDR execute count 1!
+2019-06-25 20:18:56 [log] F_CM_KTLP_GYCSHU: TRUNCATE table success!
+2019-06-25 20:18:57 [log] F_CM_KTLP_GYCSHU:   5105 Rows successfully loaded.
+2019-06-25 20:18:57 [log] F_CM_KTLP_GYCSHU: Import data success!
+2019-06-25 20:18:57 [log] F_CM_KTLP_GYCSHU: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_CM_KTLP_GYCSHU.ok
+2019-06-25 20:18:57 [log] Import table: F_PT_ORG_KBRP_JGGXII
+2019-06-25 20:18:57 [log] Import count: 959
+2019-06-25 20:18:57 [log] F_PT_ORG_KBRP_JGGXII: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGGXII.ok: ok file not exists! 
+2019-06-25 20:18:57 [log] F_PT_ORG_KBRP_JGGXII :SQLLDR execute begin
+2019-06-25 20:18:57 [log] F_PT_ORG_KBRP_JGGXII :SQLLDR execute count 1!
+2019-06-25 20:18:57 [log] F_PT_ORG_KBRP_JGGXII: TRUNCATE table success!
+2019-06-25 20:18:58 [log] F_PT_ORG_KBRP_JGGXII:   959 Rows successfully loaded.
+2019-06-25 20:18:58 [log] F_PT_ORG_KBRP_JGGXII: Import data success!
+2019-06-25 20:18:58 [log] F_PT_ORG_KBRP_JGGXII: CREATE OK file: /home/wasup/ams/data/oldfile/20180312/F_PT_ORG_KBRP_JGGXII.ok
+2019-06-25 20:18:58 [log] RunDate UPDATE: 20180313
+2019-06-25 20:18:58 [log] End of Program
+2019-06-25 20:18:58 [log] ams_worker.sh end of execute!
+2019-06-25 20:18:58 [log] ams_master.sh end of execute!
