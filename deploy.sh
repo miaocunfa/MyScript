@@ -1,68 +1,94 @@
-full_service=`ls /home/miaocunfa/`
+#!/bin/bash
 
-echo $full_service | grep -wq "info-config.jar" && isConfig="0" || isConfig="1"
-echo $full_service | grep -wq "info-gateway.jar" && isGateway="0" || isGateway="1"
-echo $full_service | grep -wq "info-message-service.jar" && isMessage="0" || isMessage="1"
+#===================================================================
+ENVFILE="/etc/profile"
+EXITCODE=0
+curDate=`date +'%Y%m%d'`
+curTime=`date +'%H%M%S'`
 
-if [ $isConfig == "0" ]
-then
-    ps -ef | grep info | awk '{print $2}' | xargs kill
+tcpMessagePort=8555
+tcpMessagePortSleep=2
+messagelib=info-message-service.jar
 
-    cd /opt/aihangxunxi/bin
-    cur_datetime=`date +'%Y%m%d%H%M%S'`
+deployPath=/home/miaocunfa
+workPath=/opt/aihangxunxi
+worklibPath=$workPath/lib
+full_service_file=$workPath/bin/deploy.service
 
-    mv /opt/aihangxunxi/lib/info-config.jar /opt/aihangxunxi/lib/info-config.jar.$cur_datetime
-    mv /home/miaocunfa/info-config.jar /opt/aihangxunxi/lib/info-config.jar
-    echo "Startup info-config.jar!"
-    ./start.sh info-config.jar
+full_service=${full_service:-default}
+service_num=${service_num:-default}
+success_num=${success_num:-default}
+failed_num=${failed_num:-default}
 
-    echo
-    echo "sleep 10s"
-    echo
-    sleep 10s
-fi
+#===================================================================
+cd $deployPath
 
-if [ $isGateway == "0" ]
-then
-    cd /opt/aihangxunxi/bin
-    cur_datetime=`date +'%Y%m%d%H%M%S'`
+full_service=`ls *.jar`
 
-    ./stop.sh info-gateway.jar
-    mv /opt/aihangxunxi/lib/info-gateway.jar /opt/aihangxunxi/lib/info-gateway.jar.$cur_datetime
-    mv /home/miaocunfa/info-gateway.jar /opt/aihangxunxi/lib/info-gateway.jar
-    echo "Startup info-gateway.jar!"
-    ./start.sh info-gateway.jar
+>$full_service_file
+echo $full_service >> $full_service_file
 
-    echo
-    echo "sleep 10s"
-    echo
-    sleep 10s
-fi
+echo
+echo "ls $deployPath"
+echo "$full_service"
+echo
+
+echo $full_service | grep -wq "$messagelib" && isMessage="0" || isMessage="1"
 
 if [ $isMessage == "0" ]
 then
-    cd /opt/aihangxunxi/bin
+    cd $workPath/bin
     cur_datetime=`date +'%Y%m%d%H%M%S'`
 
-    ./stop.sh info-message-service.jar
-    mv /opt/aihangxunxi/lib/info-message-service.jar /opt/aihangxunxi/lib/info-message-service.jar.$cur_datetime
-    mv /home/miaocunfa/info-message-service.jar /opt/aihangxunxi/lib/info-message-service.jar
-
-    echo
-    echo "sleep 10s"
-    echo
-    sleep 10s
+    ./stop.sh $messagelib
     
-    ./start.sh info-message-service.jar
+    mv $worklibPath/$messagelib    $worklibPath/$messagelib.$cur_datetime
+    mv $deployPath/$messagelib     $worklibPath/$messagelib
+
+
+    tcpMessagePortNum=$(ss -an | grep $tcpMessagePort | awk '$1 == "tcp" && $2 == "LISTEN" {print $0}' | wc -l)
+    echo
+    echo "waiting for message connection close..."
+    echo
+
+
+    while [ $tcpMessagePortNum -ge 1 ]
+    do
+        sleep $tcpMessagePortSleep
+        tcpMessagePortNum=$(ss -an | grep $tcpMessagePort | awk '$1 == "tcp" && $2 == "LISTEN" {print $0}' | wc -l)
+    done
+    
+    ./start.sh $messagelib
 fi
 
-for i in `ls /home/miaocunfa/`
+full_service=`ls $deployPath`
+
+echo
+echo "ls $deployPath"
+echo "$full_service"
+echo
+
+for i in `ls $deployPath`
 do
-    cd /opt/aihangxunxi/bin
+    cd $workPath/bin
     cur_datetime=`date +'%Y%m%d%H%M%S'`
 
     ./stop.sh $i
-    mv /opt/aihangxunxi/lib/$i /opt/aihangxunxi/lib/$i.$cur_datetime
-    mv /home/miaocunfa/$i /opt/aihangxunxi/lib/$i
+
+    mv $worklibPath/$i    $worklibPath/$i.$cur_datetime
+    mv $deployPath/$i     $worklibPath/$i
+
     ./start.sh $i
 done
+
+for i in `cat $full_service_file`
+do
+
+done
+
+ps -ef| grep info-message | grep -v "grep"
+
+service_num=``
+
+echo "Total $service_num Service are Deploy!"
+echo "Successfully $success_num    Failed $failed_num"
