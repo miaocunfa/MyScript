@@ -10,7 +10,7 @@
 #-------------------
 
 EXITCODE=0
-workDir="/home/miaocunfa/photo"
+workDir="/home/miaocunfa/MyScript/photo"
 photoDir="${workDir}/origin-photo"
 getDir="${workDir}/get-photo"
 sid="${workDir}/sid.txt"
@@ -28,7 +28,12 @@ __getPhoto()
 {
     photo=$1
 
-    cp ${photoDir}/${photo} ${getDir}/${photo}
+    if [ -f "${photoDir}/${photo}" ]
+    then
+        cp ${photoDir}/${photo} ${getDir}/${photo}
+    else
+        echo "${photoDir}/${photo}: No such file or directory"
+    fi
 }
 
 #-----------------------------------------
@@ -49,6 +54,6 @@ then
         __getPhoto ${id}
     done
 else
-    echo "${sid}: No such File or directory"
+    echo "${sid}: No such file or directory"
     __exit_handler
 fi
