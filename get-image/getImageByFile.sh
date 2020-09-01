@@ -1,19 +1,18 @@
 #!/bin/bash
-
-# Describe:     Get Photo From Dir
+#
+# Describe:     Get Image By File 
 # Create Date： 2020-08-31 
 # Create Time:  23:12
 # Update Date： 2020-09-01 
-# Update Time:  08:56
+# Update Time:  09:03
 # Author:       MiaoCunFa
-
+#
 #---------------------------Variable--------------------------------------
 EXITCODE=0
 workDir="/home/miaocunfa/MyScript/get-image"
 origin_image_dir="${workDir}/origin-image"
 sid_image_dir="${workDir}/sid-image"
 sid_file="${workDir}/sid.txt"
-
 #---------------------------Function--------------------------------------
 __exit_handler()
 {
@@ -39,17 +38,12 @@ then
     mkdir ${sid_image_dir}
 fi
 
-# 判断是否存在学号文件
-if [ -f "${sid_file}" ]
+if [ -f "${sid_file}" ]             # 判断是否存在学号文件
 then
-
-    # 遍历学号文件
-    for sid in `cat ${sid_file}` 
+    for sid in `cat ${sid_file}`    # 遍历学号文件
     do
-        # 根据学号将原始图片存入临时文件夹
-        __getSidImage ${sid}
+        __getSidImage ${sid}        # 根据学号将原始图片存入临时文件夹
     done
-
 else
     echo "${sid_file}: No such file or directory"
     __exit_handler
