@@ -1,93 +1,81 @@
 #!/bin/bash
 
-#-------------------
-# Function
-#-------------------
+# Describe:     Log archive
+# Create Date： 2020-08-31 
+# Create Time:  11:15
+# Update Date： 2020-09-01 
+# Update Time:  09:38
+# Author:       MiaoCunFa
+#
+# Alias:
+# ➜  vim /etc/profile
+#    alias bklog='bklog(){ /opt/aihangxunxi/bin/bklog.sh $1; }; bklog';
+# Usage:
+# ➜  bklog
+# ➜  bklog info-ahxx-service.log
 
-exit_handler()
+#---------------------------Variable--------------------------------------
+
+EXITCODE=0
+curDate=$(date +'%Y%m%d')
+workDir="/opt/aihangxunxi/logs"
+
+#---------------------------Function--------------------------------------
+
+__exit_handler()
 {
     exit $EXITCODE
 }
 
-bklog()
+__bklog()
 {
-    if [ ! -d $WORKDIR/oldlogs/$logshort/$TODAY ]
+    logfile=$1
+
+    # 判断文件大小是否为非0, 若LogFile的大小为0则跳出当前函数, 继续过滤其他LogFile
+    if [ -s ${logfile} ]    
     then
-        mkdir -p $WORKDIR/oldlogs/$logshort/$TODAY
+        log_prefix=$(echo ${logfile} | awk -F. '{print $1}')
+    else
+        return
+    fi
+
+    # 根据服务名及日期创建归档目录
+    if [ ! -d ${workDir}/oldlogs/${log_prefix}/${curDate} ]
+    then
+        mkdir -p ${workDir}/oldlogs/${log_prefix}/${curDate}
     fi
                 
-    SEQ=$((`ls -l ${WORKDIR}/oldlogs/$logshort/$TODAY/$logshort.$TODAY.[0-9]* 2> /dev/null | wc -l`))
-    OUTFILE="${WORKDIR}/oldlogs/$logshort/$TODAY/$logshort.$TODAY.$SEQ"
+    # 将归档目录文件进行排序, 计算出当前归档的序号
+    SEQ=$((`ls -l ${workDir}/oldlogs/${log_prefix}/${curDate}/${log_prefix}.${curDate}.[0-9]* 2> /dev/null | wc -l`))
+    OUTFILE="${workDir}/oldlogs/${log_prefix}/${curDate}/${log_prefix}.${curDate}.$SEQ"
+
+    cp $logfile $OUTFILE
+    
+    # 处理源文件
+    >${logfile}
+    
+    # 处理归档文件
+    zip -m $OUTFILE.zip $OUTFILE
 }
 
-#-------------------
-# GLOBAL VARIABLES
-#-------------------
+#--------------------------Main Script------------------------------------
 
-ENVFILE="$HOME/.bash_profile"
-
-YEAR=`/bin/date +"%Y"`
-MONTH=`/bin/date +"%m"`
-DAY=`/bin/date +"%d"`
-
-TODAY="${YEAR}${MONTH}${DAY}"
-
-EXITCODE=0
-
-WORKDIR="/opt/aihangxunxi/logs"
-
-#----------------------------
-# Load the environment file 
-#----------------------------
-
-if [ -r "$ENVFILE" ]
-then
-    . $ENVFILE
-else
-    EXITCODE=-1
-    exit_handler
-fi
-
-#-----------------------------------------
-# Reset and save the current log files
-#-----------------------------------------
-
-cd $WORKDIR
+cd ${workDir}
 
 if [ ! -d oldlogs ]
 then
     mkdir oldlogs
 fi
 
-filespec=$1
+# 指定Logfile
+logFileSpec=$1
 
-if [ -n "$filespec" ]
+if [ -n "${logFileSpec}" ]       # 判断指定Logfile是否为空, 为空则遍历logs文件夹
 then
-    if [ -f $filespec ]
-    then
-        logshort=`echo $filespec | awk -F. '{print $1}'`
-
-        bklog
-        cp $filespec $OUTFILE
-        >$filespec
-        zip -m $OUTFILE.zip $OUTFILE 
-    else
-        echo "$filespec: No such file or directory"
-        exit_handler
-    fi
+    __bklog ${logFileSpec}
 else
-    for logfile in `ls info*.log`
+    for logfile in `ls *.log`    # 遍历logs文件夹下所有Logfile
     do
-        if [ -s $logfile ]
-        then
-            logshort=`echo $logfile | awk -F. '{print $1}'`
-
-            bklog
-            cp $logfile $OUTFILE
-            >$logfile
-            zip -m $OUTFILE.zip $OUTFILE
-        fi
+        __bklog ${logfile}
     done
 fi
-
-exit_handler
