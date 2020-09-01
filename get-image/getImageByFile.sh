@@ -1,19 +1,22 @@
 #!/bin/bash
-#
+
 # Describe:     Get Image By File 
 # Create Date： 2020-08-31 
 # Create Time:  23:12
 # Update Date： 2020-09-01 
-# Update Time:  09:03
+# Update Time:  09:07
 # Author:       MiaoCunFa
-#
+
 #---------------------------Variable--------------------------------------
+
 EXITCODE=0
 workDir="/home/miaocunfa/MyScript/get-image"
 origin_image_dir="${workDir}/origin-image"
 sid_image_dir="${workDir}/sid-image"
 sid_file="${workDir}/sid.txt"
+
 #---------------------------Function--------------------------------------
+
 __exit_handler()
 {
     exit $EXITCODE
@@ -33,6 +36,7 @@ __getSidImage()
 }
 
 #--------------------------Main Script------------------------------------
+
 if [ ! -d ${sid_image_dir} ]
 then
     mkdir ${sid_image_dir}
