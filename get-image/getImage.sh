@@ -3,22 +3,18 @@
 # Describe:     Get Photo From Dir
 # Create Date： 2020-08-31 
 # Create Time:  23:12
+# Update Date： 2020-09-01 
+# Update Time:  08:56
 # Author:       MiaoCunFa
 
-#-------------------
-# GLOBAL VARIABLES
-#-------------------
-
+#---------------------------Variable--------------------------------------
 EXITCODE=0
 workDir="/home/miaocunfa/MyScript/get-image"
 origin_image_dir="${workDir}/origin-image"
 sid_image_dir="${workDir}/sid-image"
 sid_file="${workDir}/sid.txt"
 
-#-------------------
-# Function
-#-------------------
-
+#---------------------------Function--------------------------------------
 __exit_handler()
 {
     exit $EXITCODE
@@ -37,12 +33,7 @@ __getSidImage()
     fi
 }
 
-#-----------------------------------------
-# Main Script 
-#-----------------------------------------
-
-cd ${workDir}
-
+#--------------------------Main Script------------------------------------
 if [ ! -d ${sid_image_dir} ]
 then
     mkdir ${sid_image_dir}
