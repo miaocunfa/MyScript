@@ -24,7 +24,7 @@ __exit_handler()
 
 __getSidImage()
 {
-    sid_image=$1
+    sid_image=$1.JPG
 
     # 判断是否存在该学号的原始图片
     if [ -f "${origin_image_dir}/${sid_image}" ]
